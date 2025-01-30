@@ -1,0 +1,778 @@
+TopicArea,DatasetName,DataSource,Creator/Publisher,size(MB),Availability,DatePublished,LastUpdateDate,DataSetCharastrestic,MisingValues,Instances,NumberOfAtributes,ListOfAtributes,URL,Citation,Unnamed: 15
+Covid-19,COVID-19 Vaccine Distribution Allocations by Jurisdiction - Janssen,ASPA Media,COVID_19,--,Free,2021-02-26,2021-05-05,available online,No,504.0,3,Jurisdiction- Week of Allocations- 1st Dose Allocations,https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/w9zu-fywh#:~:text=COVID%2D19%20Vaccine%20Distribution%20Allocations%20by%20Jurisdiction%20%2D%20Janssen,https://data.cdc.gov/resource/w9zu-fywh.json,
+Covid-19,"Provisional COVID-19 Deaths by HHS Region, Race, and Age",https://www.cdc.gov/nchs/nvss/covid-19.htm,NCHS/DVS,--,Free,2021-02-10,2023-05-03,available online,No,173000.0,14,Data As Of- Start Date- End Date- group- year- month- MMWR week- Week-Ending Date- HHS Region- Race and Hispanic Origin Group- Age Group- COVID-19 Deaths- Total Deaths- Footnote-,"https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-HHS-Region-Race-and/tpcp-uiv5#:~:text=Sign%20In-,Provisional%20COVID%2D19%20Deaths%20by%20HHS%20Region%2C%20Race%2C%20and%20Age,-NCHS","National Center for Health Statistics. Provisional COVID-19 Deaths by HHS Region, Race, and Age. Date accessed [Last accessed date]. Available from https://data.cdc.gov/d/tpcp-uiv5.",
+Covid-19,COVID-19 Case Surveillance Public Use Data with Geography,CDC,"CDC Data, Analytics and Visualization Task Force",--,Free,2020-05-15,2023-04-11,available online,No,,12,cdc_case_earliest_dt- cdc_report_dt- pos_spec_dt- onset_dt- current_status- sex- age_group- race_ethnicity_combined- hosp_yn- icu_yn- death_yn- medcond_yn,"https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf#:~:text=Sign%20In-,COVID%2D19%20Case%20Surveillance%20Public%20Use%20Data,-Case%20Surveillance","Centers for Disease Control and Prevention, COVID-19 Response. COVID-19 Case Surveillance Public Data Access, Summary, and Limitations (version date: April 06, 2023).",
+Covid-19,United States COVID-19 Community Levels by County,CDC,CDC COVID-19 Response,--,Free,2022-03-03,2023-04-27,available online,No,,12,county- county_fips- state- county_population- health_service_area_number- health_service_area- health_service_area_population- covid_inpatient_bed_utilization- covid_hospital_admissions_per_100k- covid_cases_per_100k- covid-19_community_level- date_updated,"https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-Community-Levels-by-County/3nnm-4jni#:~:text=Sign%20In-,United%20States%20COVID%2D19%20Community%20Levels%20by%20County,-Public%20Health%20Surveillance","Centers for Disease Control and Prevention, COVID-19 Response. United States COVID-19 Community Levels by County (April 27, 2023",
+Covid-19,Provisional COVID-19 Deaths by Sex and Age,https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm,NCHS/DVS,--,Free,2020-05-01,2023-05-03,available online,No,124000.0,16,"COVID-19 deaths by sex, age, state, year and month","https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Sex-and-Age/9bhg-hcku#:~:text=Sign%20In-,Provisional%20COVID%2D19%20Deaths%20by%20Sex%20and%20Age,-NCHS",National Center for Health Statistics. Provisional COVID-19 Deaths by Sex and Age. Date accessed [Last accessed date]. Available from https://data.cdc.gov/d/9bhg-hcku.,
+Covid-19,United States COVID-19 Cases and Deaths by State over Time - ARCHIVED,Surveillance Review and Response Group,CDC COVID-19 Response,--,Free,2020-06-11,2022-10-19,Available online,No,60.1,15,"State- tot_cases- submission_date- conf_cases- prob_cases- new_case- pnew_case- tot_death- 
+Conf_death- prob_death- new_death- pnew_death- created_at- consent_cases- consent_deaths","https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36#:~:text=Sign%20In-,United%20States%20COVID%2D19%20Cases%20and%20Deaths%20by%20State%20over%20Time%20%2D%20ARCHIVED,-Case%20Surveillance","Centers for Disease Control and Prevention, COVID-19 Response. United States COVID-19 Cases and Deaths by State over Time - ARCHIVED (version date: October 19, 2022)",
+Covid-19,Provisional COVID-19 Deaths by Place of Death and Age,https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm,NCHS/DVS,--,Free,2020-09-02,2023-05-03,Available online,No,197000.0,17,"Data as of- Start Date- End Date- Group- Year- Month- HHS Region- State- Place of Death- Age group- COVID-19 Deaths- Total Deaths- Pneumonia Deaths- Pneumonia and COVID-19 Deaths- Influenza Deaths- Pneumonia, Influenza, or COVID-19 Deaths- Footnote","https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Place-of-Death-and-/4va6-ph5s#:~:text=Sign%20In-,Provisional%20COVID%2D19%20Deaths%20by%20Place%20of%20Death%20and%20Age,-NCHS",National Center for Health Statistics. Provisional COVID-19 Deaths by Place of Death and Age. Date accessed [Last accessed date]. Available from https://data.cdc.gov/d/4va6-ph5s.,
+Covid-19,"Provisional COVID-19 Deaths by Race and Hispanic Origin, and Age",https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/,NCHS/DVS,--,Free,2020-05-08,2023-05-03,Available online,No,6729.0,13,"Data as of- Start Date- End Date- State- Age group- Race and Hispanic Origin Group- COVID-19 Deaths- Total Deaths- Pneumonia Deaths- Pneumonia and COVID-19 Deaths- Influenza Deaths- Pneumonia, Influenza, or COVID-19 Deaths- Footnote","https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Race-and-Hispanic-O/ks3g-spdg#:~:text=Sign%20In-,Provisional%20COVID%2D19%20Deaths%20by%20Race%20and%20Hispanic%20Origin%2C%20and%20Age,-NCHS","National Center for Health Statistics. Provisional COVID-19 Deaths by Race and Hispanic Origin, and Age. Date accessed [May 3, 2023]. Available from https://data.cdc.gov/d/ks3g-spdg.",
+Covid-19,Provisional COVID-19 Deaths: Focus on Ages 0-18 Years,National Center for Health Statistics,NCHS/DVS,--,Free,2020-08-05,2023-05-03,Available online,No,29.0,8,Data as of- Age group- COVID-19 Deaths- Indicator- Sex- Race or Hispanic Origin Group- Start Week,"https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-Focus-on-Ages-0-18-Yea/nr4s-juj3#:~:text=Sign%20In-,Provisional%20COVID%2D19%20Deaths%3A%20Focus%20on%20Ages%200%2D18%20Years,-NCHS","National Center for Health Statistics. Provisional COVID-19 Deaths: Focus on Ages 0-18 Years. Date accessed [May 3, 2023]. Available from https://data.cdc.gov/d/nr4s-juj3.",
+Covid-19,COVID-19 Case Surveillance Public Use Data with Geography,Surveillance Review and Response Group,"CDC Data, Analytics and Visualization Task Force",--,Free,2020-05-15,2023-04-11,Available online,No,97.8,12,cdc_case_earliest_dt- cdc_report_dt- pos_spec_dt- onset_dt- current_status- sex- age_group- race_ethnicity_combined- hosp_yn- icu_yn- death_yn- medcond_yn,"https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf#:~:text=Sign%20In-,COVID%2D19%20Case%20Surveillance%20Public%20Use%20Data,-Case%20Surveillance","Centers for Disease Control and Prevention, COVID-19 Response. COVID-19 Case Surveillance Public Data Access, Summary, and Limitations (version date: April 06, 2023).",
+Tobacco Use,BRFSS Prevalence and Trends Data: Tobacco Use - Four Level Smoking Data for 1995-2010,http://www.cdc.gov/brfss,Behavioral Risk Factor Surveillance System (BRFSS),--,Free,2013-06-11,2013-08-02,Available online,No,876.0,7,year- State- Smoke every day- Smoke some day- former smoker- never smoked- location 1,https://data.cdc.gov/Smoking-Tobacco-Use/BRFSS-Prevalence-and-Trends-Data-Tobacco-Use-Four-/8zak-ewtm#:~:text=BRFSS%20Prevalence%20and%20Trends%20Data%3A%20Tobacco%20Use%20%2D%20Four%20Level%20Smoking%20Data%20for%201995%2D2010,,
+Tobacco Use,BRFSS Prevalence And Trends Data: Tobacco Use - Adults Who Are Current Smokers for 1995-2010,http://www.cdc.gov/brfss/,Behavioral Risk Factor Surveillance System (BRFSS),--,Free,2013-06-10,2013-08-01,Available online,No,875.0,6,Year- State- Condition- Yes- No- Location,https://data.cdc.gov/Smoking-Tobacco-Use/BRFSS-Prevalence-And-Trends-Data-Tobacco-Use-Adult/j8jk-5ztv#:~:text=BRFSS%20Prevalence%20And%20Trends%20Data%3A%20Tobacco%20Use%20%2D%20Adults%20Who%20Are%20Current%20Smokers%20for%201995%2D2010,,
+Tobacco Use,BRFSS Prevalence and Trends Data: Tobacco Use - Four Level Smoking Data for 2011,http://www.cdc.gov/brfss,Behavioral Risk Factor Surveillance System (BRFSS),--,Free,2013-08-02,2013-09-05,Available online,No,55.0,7,year- State- Smoke every day- Smoke some day- former smoker- never smoked- location 1,https://data.cdc.gov/Smoking-Tobacco-Use/BRFSS-Prevalence-and-Trends-Data-Tobacco-Use-Four-/ya9m-pyut#:~:text=BRFSS%20Prevalence%20and%20Trends%20Data%3A%20Tobacco%20Use%20%2D%20Four%20Level%20Smoking%20Data%20for%202011,,
+Mental Health,COMMUNITY MENTAL HEALTH CENTERS PROVIDER LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,,Free,2019-06-04,2019-06-04,CSV,No,25.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/35707ed5-9baf-4b5a-a194-2faaf3e36e08/resource/95a5aa95-105b-442c-b579-35cdd657fe72/download/community-mental-health-centers.xlsx,"https://hub.mph.in.gov/dataset/community-mental-health-centers/resource/95a5aa95-105b-442c-b579-35cdd657fe72#::~:text=Download-,COMMUNITY%20MENTAL%20HEALTH%20CENTERS%20PROVIDER%20LOCATIONS,-URL%3A%20https",
+Coverage Provider,HEALTH COVERAGE PROVIDER LOCATIONS,Indiana Family and Social Services Administration,INDIANA FAMILY AND SOCIAL SERVICES ADMINISTRATION,16.8 KiB,Free,2019-06-04,2019-06-04,XLSX,No,105.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/e73e5e3f-d80a-45ce-a3f9-b3e63c80f0ba/resource/5036bf36-f3f4-473b-a6c7-a67f4d680be5/download/health-coverage-services.xlsx,https://hub.mph.in.gov/dataset/health-coverage,
+Mental Health,COMMUNITY MENTAL HEALTH CENTERS PROVIDER LOCATIONS,Indiana Family and Social Services Administration,INDIANA FAMILY AND SOCIAL SERVICES ADMINISTRATION,10.9 KiB,Free,2019-06-04,2019-06-07,XLSX,No,25.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/35707ed5-9baf-4b5a-a194-2faaf3e36e08/resource/4f9dcc0c-d128-4da6-8376-200f7970dd4d/download/fssa-provider-data-dictionary.xlsx,"https://hub.mph.in.gov/dataset/community-mental-health-centers/resource/4f9dcc0c-d128-4da6-8376-200f7970dd4d#:~:text=Data%20API-,FSSA%20PROVIDER%20DATA%20DICTIONARY,-URL%3A%20https",
+Mental Health,ADULT MENTAL HEALTH HABILITATION SERVICE PROVIDER LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,,Free,2019-06-04,2019-06-07,XLSX,No,28.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/04a38295-5d07-4948-9b99-358c05316447/resource/59a6ba6a-b91e-4e6c-a599-714ceca9264e/download/fssa-provider-data-dictionary.xlsx,"https://hub.mph.in.gov/dataset/adult-mental-health-habilitation-services/resource/59a6ba6a-b91e-4e6c-a599-714ceca9264e#:~:text=Data%20API-,FSSA%20PROVIDER%20DATA%20DICTIONARY,-URL%3A%20https",
+Mental Health,CLAIMS SERVICING MENTAL HEALTH PATIENT BY PROVIDER,,State of Indiana,_,Free,2017-09-14,2019-09-05,XLSX-PDF,No,7000.0,15,"PROVIDER NPI-PROVIDER NAME- PROVIDER ADDR STREET1-PROVIDER ADDR STREET2	PROVIDER ADDR CITY	-PROVIDER ADDR STATE-PROVIDER ADDR ZIP5			
+GEO LATITUDE-GEO LONGITUDE-PROVIDER TYPE- PROVIDER SPECIALTY	
+TOTAL NUMBER OF CLAIMS FROM MENTAL HEALTH PATIENTS		
+TOTAL NUMBER OF MENTAL HEALTH PATIENTS- TOTAL $ AMOUNT OF CLAIMS FROM MENTAL HEALTH PATIENTS- TOTAL NUMBER OF ER CLAIMS FROM MENTAL HEALTH PATIENTS",https://hub.mph.in.gov/dataset/fcdc1ede-0602-4aaa-b046-fc791ff4ede1/resource/61a19681-201c-47a7-bd0a-fef9f97778f6/download/dmha_claims_provider.csv,https://hub.mph.in.gov/dataset/claims-servicing-mental-health-patient-by-provider/resource/61a19681-201c-47a7-bd0a-fef9f97778f6#:~:text=CLAIMS%20SERVICING%20MENTAL%20HEALTH%20PATIENT%20BY...,
+Social Services,EQUITY PORTAL - SOCIAL SERVICES HOOSIER HEALTH,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,34.6 MiB,Free,2021-07-21,2023-04-01,CSV,No,239000.0,9,"County- Race- Month_Year                        
+Question- Affirmative Responses        
+Total Survey Responses-2019 Census Estimate- Affirmative Responses Per Capita- Affirmative Responses rate",https://hub.mph.in.gov/dataset/7694a837-cddb-4858-b874-d3312131b596/resource/3faae0b1-ed7e-4c2f-99c2-f3e3820cf28a/download/equity-portal-fssa-hoosier-health-dataset.csv,https://hub.mph.in.gov/dataset/equity-portal-social-services-hoosier-health/resource/3faae0b1-ed7e-4c2f-99c2-f3e3820cf28a#:~:text=EQUITY%20PORTAL%20%2D%20BY%20COUNTY%20SOCIAL%20SERVICES...,
+Social Services,EQUITY PORTAL - BY STATE SOCIAL SERVICES HOOSIER HEALTH,Indiana State Department of Health,Management Performance Hub,572.3 KiB,Free,2021-08-09,2021-08-09,text/csv,No,5000.0,9,"County- Race- Month_Year                        
+Question- Affirmative Responses        
+Total Survey Responses-2019 Census Estimate- Affirmative Responses Per Capita- Affirmative Responses rate",https://hub.mph.in.gov/dataset/7694a837-cddb-4858-b874-d3312131b596/resource/c2fb17ae-9e37-4aaa-b00c-7aa61aba57a2/download/equity-portal-fssa-hoosier-health-dataset-state.csv,"https://hub.mph.in.gov/dataset/equity-portal-social-services-hoosier-health/resource/c2fb17ae-9e37-4aaa-b00c-7aa61aba57a2#:~:text=Data%20API-,EQUITY%20PORTAL%20%2D%20BY%20STATE%20SOCIAL%20SERVICES%20HOOSIER%20HEALTH,-URL%3A%20https",
+Public Health,EQUITY PORTAL - PUBLIC HEALTH COVID CENSUS DATA,Indiana State Department of Health,https://hub.mph.in.gov/dataset/equity-portal-public-health-covid-census-data#:~:text=Management%20Performance%20Hub,1 MiB,Free,2021-07-02,2023-04-01,text/csv,No,20000.0,7,"COUNTY- MONTH- RACE	
+POPULATION- CASES- DEATHS",https://hub.mph.in.gov/dataset/90500a78-6cb7-4797-bde1-ebd684add068/resource/53d0068c-2281-4f64-a513-5c5855b62a46/download/equity-portal-public-health-covid-dataset.csv,https://hub.mph.in.gov/dataset/equity-portal-public-health-covid-census-data/resource/53d0068c-2281-4f64-a513-5c5855b62a46#:~:text=EQUITY%20PORTAL%20%2D%20PUBLIC%20HEALTH%20COVID%20DATA,
+Infant And Maternal Health,EQUITY PORTAL - INFANT AND MATERNAL HEALTH DATA,Indiana Department of Health,Indiana Department of Health,189.2 KiB,Free,2021-05-27,2023-01-31,text/csv,No,2000.0,9,"YEAR	numeric		
+COUNTY_NAME	text		
+RACE/ETHNICITY	text		
+NO_EARLY_PRENATAL_CARE	text		
+BIRTHS	text		
+SUIDS	text		
+INFANT_DEATH_COUNTS	text		
+PRETERM_BIRTH	text		
+FEMALE_POPULATION_AGE_15_44	numeric",https://hub.mph.in.gov/dataset/bdc49b3c-6659-45ce-8324-39d2e30ba2bc/resource/e7394275-f482-472d-9950-0a4131aaa4e4/download/equity-portal-infant-and-maternal-health-dataset.csv,https://hub.mph.in.gov/dataset/equity-portal-infant-and-maternal-health-data/resource/e7394275-f482-472d-9950-0a4131aaa4e4#:~:text=EQUITY%20PORTAL%20INFANT%20AND%20MATERNAL%20HEALTH%20DATA,
+Maternal Health,MATERNAL HEALTH CLAIMS BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,_,Free,2019-08-30,2020-10-05,CSV,No,93.0,11,"COUNTY	text		
+TOTAL_CLAIMS	numeric		
+TOTAL_COST	numeric		
+TOTAL_CLAIMS_PREBIRTHING_EVENT	numeric		
+TOTAL_COST_PREBIRTHING_EVENT	numeric		
+PREBIRTHING_MEDIAN_COST	numeric		
+TOTAL_CLAIMS_POSTBIRTHING_EVENT	numeric		
+TOTAL_COST_POSTBIRTHING_EVENT	numeric		
+POSTBIRTHING_MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/ae880b2f-e119-499a-8c82-5238d04c7001/resource/05f64b98-4451-490a-aa64-a4cd0638f59c/download/maternal-health-claims-by-recipient-county.csv,"https://hub.mph.in.gov/dataset/maternal-health-claims-by-recipient-county/resource/05f64b98-4451-490a-aa64-a4cd0638f59c#:~:text=Data%20API-,MATERNAL%20HEALTH%20CLAIMS%20BY%20RECIPIENT%20COUNTY,-URL%3A%20https",
+Mental Health Patient,CLAIMS SERVICING MENTAL HEALTH PATIENT BY RECIPIENT ZIP CODE,State of Indiana,Indiana Management Performance Hub,_,Free,2017-09-14,2019-09-05,CSV,No,836.0,6,"ZIP CODE	numeric		
+AGE GROUP	text		
+TOTAL NUMBER OF CLAIMS FROM MENTAL HEALTH PATIENTS	numeric		
+TOTAL NUMBER OF MENTAL HEALTH PATIENTS	numeric		
+TOTAL $ AMOUNT OF CLAIMS FROM MENTAL HEALTH PATIENTS	numeric		
+TOTAL NUMBER OF ER CLAIMS FROM MENTAL HEALTH PATIENTS	text",https://hub.mph.in.gov/dataset/6cb9b28a-01ca-46e2-a136-fe3cc4b68256/resource/cb6172cd-c6d9-455b-ae39-b4f1a19fd73e/download/dmha_recipient_zip.csv,https://hub.mph.in.gov/dataset/claims-servicing-mental-health-patient-by-recipient-zip-code/resource/cb6172cd-c6d9-455b-ae39-b4f1a19fd73e#:~:text=CLAIMS%20SERVICING%20MENTAL%20HEALTH%20PATIENT%20BY...,
+Mental Health,CLAIMS SERVICING MENTAL HEALTH PATIENT BY...,State of Indiana,Indiana Management Performance Hub,_,Free,2017-10-12,2017-10-12,CSV,No,14.0,6,"RACE	text		
+GENDER	text		
+TOTAL NUMBER OF CLAIMS FROM MENTAL HEALTH PATIENTS	numeric		
+TOTAL NUMBER OF MENTAL HEALTH PATIENTS	numeric		
+TOTAL $ AMOUNT OF CLAIMS FROM MENTAL HEALTH PATIENTS	numeric		
+TOTAL NUMBER OF ER CLAIMS FROM MENTAL HEALTH PATIENTS	numeric",https://hub.mph.in.gov/dataset/cd5adcf3-76cb-480a-b6e1-3e7fc19c91cd/resource/58f24ed2-1019-4c01-a3ad-33ccfba8b779/download/dmha_recipient_race_gender.csv,https://hub.mph.in.gov/dataset/claims-servicing-mental-health-patient-by-recipient-race-and-gender/resource/58f24ed2-1019-4c01-a3ad-33ccfba8b779#:~:text=CLAIMS%20SERVICING%20MENTAL%20HEALTH%20PATIENT%20BY...https://hub.mph.in.gov/dataset/hoosier-health-and-well-being-by-county-and-demographics/resource/a797de9e-fae3-40ef-a06e-88fbd2cda1e1#:~:text=HOOSIER%20HEALTH%20AND%20WELL%2DBEING%20BY%20COUNTY%20AND...,
+Hoosier Health And Well-Being,HOOSIER HEALTH AND WELL-BEING BY COUNTY AND DEMOGRAPHICS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,258.3 KiB,Free,2021-03-05,2021-03-29,CSV,No,920.0,51,_,https://hub.mph.in.gov/dataset/6e213033-fc59-4f36-b40b-0b8c09b8ae53/resource/a797de9e-fae3-40ef-a06e-88fbd2cda1e1/download/hoosier-health-and-well-being-by-county-and-demographics.csv,https://hub.mph.in.gov/dataset/hoosier-health-and-well-being-by-county-and-demographics/resource/a797de9e-fae3-40ef-a06e-88fbd2cda1e1#:~:text=HOOSIER%20HEALTH%20AND%20WELL%2DBEING%20BY%20COUNTY%20AND...,
+Tobacco Quitline,"TOBACCO QUITLINE CALLS BY YEAR, COUNT, HEALTH INSURANCE TYPE, AND PREGNANCY GROUP",Indiana Department of Health,"https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-year-count-health-insurance-type-and-pregnancy-group#:~:text=Author-,Indiana%20Department%20of%20Health,-Maintainer",12.7 KiB,Free,2019-09-17,2020-10-02,CSV,No,328.0,5,"ID  numeric                         call_year        numeric                
+pregnancygroup        text                
+healthinsurance        text                
+personid        numeric",https://hub.mph.in.gov/dataset/8466d719-9f1b-42be-90c4-c8be28e78b54/resource/30c0fc2d-cb4d-4482-8ab6-f21f39bd50c2/download/call_year_pgroup_healthins.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-year-count-health-insurance-type-and-pregnancy-group/resource/30c0fc2d-cb4d-4482-8ab6-f21f39bd50c2#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20YEAR%2C%20COUNT%2C%20HEALTH...,
+Tobacco Quitline Calls,"TOBACCO QUITLINE CALLS BY ZIP, COUNT, HEALTH INSURANCE TYPE, AND PREGNANCY GROUP",Indiana Department of Health,Indiana Department of Health,_,Free,2019-09-17,2020-10-02,text/csv,No,2000.0,4,"zip	numeric		
+pregnancygroup	text		
+healthinsurance	text		
+personid	numeric",https://hub.mph.in.gov/dataset/755d61f9-c923-40e6-9c22-852adbee0355/resource/617c7074-352b-4248-8622-b2280337aa28/download/zip_pgroup_healthins.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-zip-count-health-insurance-type-and-pregnancy-group/resource/617c7074-352b-4248-8622-b2280337aa28#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20ZIP%2C%20COUNT%2C%20HEALTH...,
+Tobacco Quitline Calls,"TOBACCO QUITLINE CALLS BY YEAR, COUNT, AND PREGNANCY GROUP",Indiana Department of Health,Indiana Department of Health,462 bytes,Free,2019-09-17,2020-10-02,CSV,No,21.0,3,"call_year	numeric		
+pregnancygroup	text		
+count_personid	numeric",https://hub.mph.in.gov/dataset/ddc20be9-0943-4468-babe-a3c9304a48cf/resource/5346de50-476c-46f8-a063-b7d62a27dbb4/download/call_year_pgroup_count.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-year-count-and-pregnancy-group/resource/5346de50-476c-46f8-a063-b7d62a27dbb4#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20YEAR%2C%20COUNT%2C%20AND...,
+Tobacco Quitline Calls,"TOBACCO QUITLINE CALLS BY YEAR, RACIAL DEMOGRAPHIC, AND PREGNANCY GROUP",Indiana Department of Health,Indiana Department of Health,4.2 KiB,Free,2019-09-17,2020-10-02,CSV,No,127.0,4,"call_year	numeric		
+pregnancygroup	text		
+race	text		
+personid	numeric",https://hub.mph.in.gov/dataset/bf2196c4-6c65-4872-b433-98a219a680b1/resource/4d94f037-61c6-4601-b0d2-e84f6da29f92/download/call_year_pgroup_race.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-year-racial-demographic-and-pregnancy-group/resource/4d94f037-61c6-4601-b0d2-e84f6da29f92#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20YEAR%2C%20RACIAL...,
+Tobacco Quitline,"TOBACCO QUITLINE CALLS BY ZIP, RACIAL DEMOGRAPHIC, AND PREGNANCY GROUP",Indiana Department of Health,Indiana Department of Health,31.4 KiB,Free,2019-09-17,2020-10-02,CSV,No,1000.0,4,"zip	numeric		
+pregnancygroup	text		
+race	text		
+personid",https://hub.mph.in.gov/dataset/a8fb1cb6-79db-4ea7-8677-33efbe227afc/resource/05ab7b42-ec89-4bad-815f-2e0d6f191451/download/zip_pgroup_race.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-zip-racial-demographic-and-pregnancy-group/resource/05ab7b42-ec89-4bad-815f-2e0d6f191451#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20ZIP%2C%20RACIAL...,
+Tobacco Quitline,"TOBACCO QUITLINE CALLS BY YEAR, AVERAGE AGE, AND PREGNANCY GROUP",Indiana Department of Health,Indiana Department of Health,618 bytes,Free,2019-09-17,2020-10-02,CSV,No,21.0,3,call_year  numeric        pregnancygroup   text     avg_age   numeric,https://hub.mph.in.gov/dataset/431a535f-8c25-4ed6-a561-ca5e7908df46/resource/4a781e92-fc43-4531-8321-a1a234719f17/download/call_year_pgroup_age.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-year-average-age-and-pregnancy-group/resource/4a781e92-fc43-4531-8321-a1a234719f17#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20YEAR%2C%20AVERAGE%20AGE%2C...,
+Tobacco Quitline,"TOBACCO QUITLINE CALLS BY YEAR, AVERAGE CIGARETTES PER DAY, AND PREGNANCY GROUP",Indiana Department of Health,Indiana Department of Health,636 bytes,Free,2019-09-17,2020-10-02,CSV,No,21.0,3,"call_year	numeric		
+pregnancygroup	text		
+avg_cigaretteperday	numeric",https://hub.mph.in.gov/dataset/960d4173-886b-4177-839f-483fbcc05705/resource/5c389669-d76d-4eb0-b38b-4d7f8b9f6f06/download/call_year_pgroup_cig_perday.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-year-average-cigarettes-per-day-and-pregnancy-group/resource/5c389669-d76d-4eb0-b38b-4d7f8b9f6f06#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20YEAR%2C%20AVERAGE...,
+Tobacco Quitline Calls,"TOBACCO QUITLINE CALLS BY YEAR, AVERAGE YEARS OF TOBACCO USE, AND PREGNANCY GROUP",Indiana Department of Health,Indiana Department of Health,530 bytes,Free,2019-09-17,2020-10-02,csv,No,21.0,3,"call_year	numeric		
+pregnancygroup	text		
+avg_yearsoftobaccouse	numeric",https://hub.mph.in.gov/dataset/054fdc11-6492-4dd5-97d8-e81a7aa6bcb5/resource/3cd3cce4-26fc-40c2-af65-2013eaa69340/download/call_year_pgroup_use.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-year-average-years-of-tobacco-use-and-pregnancy-group/resource/3cd3cce4-26fc-40c2-af65-2013eaa69340#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20YEAR%2C%20AVERAGE%20YEARS...,
+Tobacco Quitline,"TOBACCO QUITLINE CALLS BY YEAR, COUNT, EDUCATION ATTAINMENT LEVEL, AND PREGNANCY GROUP",Indiana Department of Health,Indiana Department of Health,7.1 KiB,Free,2019-09-17,2020-10-02,CSV,No,188.0,4,"call_year	numeric		
+pregnancygroup	text		
+education	text		
+count_personid	numeric",https://hub.mph.in.gov/dataset/1d92abc9-4bcb-446c-9561-eb6d372135ff/resource/c28117eb-604c-445d-8df1-d022ca0318da/download/call_year_pgroup_ed.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-year-count-education-attainment-level-and-pregnancy-group/resource/c28117eb-604c-445d-8df1-d022ca0318da#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20YEAR%2C%20COUNT%2C...,
+Tobacco Quitline,"TOBACCO QUITLINE CALLS BY YEAR, SMOKING AFTER WAKING, AND PREGNANCY GROUP",Indiana Department of Health,Indiana Department of Health,2.8 KiB,Free,2019-09-17,2020-10-02,CSV,No,100.0,4,"call_year	numeric		
+pregnancygroup	text		
+afterwaking	text		
+count_personid	numeric",https://hub.mph.in.gov/dataset/9a710a21-7f52-44d8-ab93-c79826c78d48/resource/497895be-e571-4fca-81ff-b36b46bcd378/download/call_year_pgroup_waking_count.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-year-smoking-after-waking-and-pregnancy-group/resource/497895be-e571-4fca-81ff-b36b46bcd378#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20YEAR%2C%20SMOKING%20AFTER...,
+Tobacco Quitline,"TOBACCO QUITLINE CALLS BY ZIP, AVERAGE AGE, AND PREGNANCY GROUP",Indiana State Department of Health,Indiana State Department of Health,17.2 KiB,Free,2019-09-17,2020-10-02,CSV,No,784.0,3,"zip	numeric		
+pregnancygroup	text		
+avg_age	numeric",https://hub.mph.in.gov/dataset/e143ae08-99a4-4356-a532-b28f1a69ba03/resource/d4a113bc-3b7c-4387-af2e-a6a50b9e766d/download/zip_pgroup_age.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-zip-average-age-and-pregnancy-group/resource/d4a113bc-3b7c-4387-af2e-a6a50b9e766d#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20ZIP%2C%20AVERAGE%20AGE%2C...,
+Tobacco Quitline,"TOBACCO QUITLINE CALLS BY ZIP, AVERAGE CIGARETTES PER DAY, AND PREGNANCY GROUP",Indiana Department of Health,Indiana Department of Health,16.6 KiB,Free,2019-09-17,2020-10-02,CSV,No,784.0,3,"zip	numeric		
+pregnancygroup	text		
+avg_cigaretteperday	numeric",https://hub.mph.in.gov/dataset/678aef91-6eed-45b9-8bb6-ddb0704e0187/resource/abb14198-6d15-49ba-935b-bb66208fba8f/download/zip_pgroup_cig_perday.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-zip-average-cigarettes-per-day-and-pregnancy-group/resource/abb14198-6d15-49ba-935b-bb66208fba8f#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20ZIP%2C%20AVERAGE...,
+Tobacco Quitline,"TOBACCO QUITLINE CALLS BY ZIP, AVERAGE YEARS OF TOBACCO USE, AND PREGNANCY GROUP",Indiana Department of Health,Indiana Department of Health,15.1 KiB,Free,2019-09-17,2020-10-02,CSV,No,784.0,3,"zip	numeric		
+pregnancygroup	text		
+avg_yearsoftobaccouse	numeric",https://hub.mph.in.gov/dataset/ce52c8da-8160-4709-9012-25e4c31ec889/resource/e4cec148-c2d9-4e16-8aa4-2e9fd5b07567/download/zip_pgroup_use.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-zip-average-years-of-tobacco-use-and-pregnancy-group/resource/e4cec148-c2d9-4e16-8aa4-2e9fd5b07567#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20ZIP%2C%20AVERAGE%20YEARS...,
+Tobacco Quitline,"TOBACCO QUITLINE CALLS BY ZIP, COUNT, AND PREGNANCY GROUP",Indiana Department of Health,Indiana Department of Health,14.7 KiB,Free,2019-09-17,2020-10-02,CSV,No,784.0,3,"zip	numeric		
+pregnancygroup	text		
+count_personid	numeric",https://hub.mph.in.gov/dataset/bc41aaef-bbce-4c31-ac1f-3884b116cd51/resource/0c95a3d4-907a-4e0b-8bf5-e9d21749cd28/download/zip_pgroup_count.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-zip-count-and-pregnancy-group/resource/0c95a3d4-907a-4e0b-8bf5-e9d21749cd28#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20ZIP%2C%20COUNT%2C%20AND...,
+Tobacco Quitline,"TOBACCO QUITLINE CALLS BY ZIP, COUNT, EDUCATION ATTAINMENT LEVEL, AND PREGNANCY GROUP",Indiana Department of Health,Indiana Department of Health,60.7 KiB,Free,2019-09-17,2020-10-02,CSV,No,2000.0,4,"zip	numeric		
+pregnancygroup	text		
+education	text		
+count_personid	numeric",https://hub.mph.in.gov/dataset/b148f604-d91a-42ae-bcf4-4a0ec0a5f010/resource/c57ae12d-6838-49ff-ae41-4d7ed44af24f/download/zip_pgroup_ed.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-zip-count-education-attainment-level-and-pregnancy-group/resource/c57ae12d-6838-49ff-ae41-4d7ed44af24f#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20ZIP%2C%20COUNT%2C...,
+Tobacco Quitline,"TOBACCO QUITLINE CALLS BY ZIP, SMOKING AFTER WAKING, AND PREGNANCY GROUP",Indiana State Department of Health,Indiana State Department of Health,36.3 KiB,Free,2019-09-17,2020-10-02,CSV,N0,1000.0,4,"zip	numeric		
+pregnancygroup	text		
+afterwaking	text		
+count_personid	numeric",https://hub.mph.in.gov/dataset/e698cedb-c0a4-4613-948f-39a194d979fd/resource/866f57bd-9cd5-4e70-8b9f-ca7cd096b7d9/download/zip_pgroup_waking_count.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-zip-smoking-after-waking-and-pregnancy-group/resource/866f57bd-9cd5-4e70-8b9f-ca7cd096b7d9#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20ZIP%2C%20SMOKING%20AFTER...,
+Tobacco Quitline,"TOBACCO QUITLINE CALLS BY ZIP, SMOKING AFTER WAKING, AND PREGNANCY GROUP",Indiana State Department of Health,Indiana State Department of Health,36.3 KiB,Free,2019-09-17,2020-10-02,CSV,No,1000.0,4,"zip	numeric		
+pregnancygroup	text		
+afterwaking	text		
+count_personid	numeric",https://hub.mph.in.gov/dataset/e698cedb-c0a4-4613-948f-39a194d979fd/resource/866f57bd-9cd5-4e70-8b9f-ca7cd096b7d9/download/zip_pgroup_waking_count.csv,https://hub.mph.in.gov/dataset/tobacco-quitline-calls-by-zip-smoking-after-waking-and-pregnancy-group/resource/866f57bd-9cd5-4e70-8b9f-ca7cd096b7d9#:~:text=TOBACCO%20QUITLINE%20CALLS%20BY%20ZIP%2C%20SMOKING%20AFTER...,
+Covid-19,COVID-19 COUNTY CATEGORIZATION SCORES,Indiana State Department of Health,Indiana State Department of Health,16.3 KiB,Free,2020-09-02,2022-03-30,CSV,No,92.0,12,"County	text		
+FIPS	numeric		
+Cases	numeric		
+Case Rate	numeric		
+Case Score	numeric		
+Positivity Rate	numeric		
+Positivity Score	numeric		
+County Score	numeric		
+County Score Color	text		
+Advisory Level	text		
+Previous Positivity	numeric		
+Difference in Positivity	numeric",https://hub.mph.in.gov/dataset/3511aa89-e710-4b72-9468-003044ccd0e8/resource/3db61861-f7dc-4b5d-a917-cb5d1a845afd/download/countyscores.xlsx,"https://hub.mph.in.gov/dataset/covid-19-county-categorization-scores/resource/3db61861-f7dc-4b5d-a917-cb5d1a845afd#:~:text=Data%20API-,COVID%2D19%20COUNTY%20CATEGORIZATION%20SCORES,-URL%3A%20https",
+Healthcare,VOLUNTEER HEALTHCARE REGISTRY,http://in.gov/pla/3944.htm,Eric Burton,_,Free,2017-11-27,2017-11-27,CSV,No,491.0,9,"Last Name	text		
+First Name	text		
+City	text		
+State	text		
+Zip Code	numeric		
+County	text		
+License Type	text		
+License #	text		
+Status	text		
+Issue Date	timestamp		
+Expiration Date	timestamp",https://hub.mph.in.gov/dataset/92b80f51-ec34-4e10-a0b6-6a8fa609ee94/resource/4dc1f255-e98c-4ce7-814a-fbef51f48960/download/volunteer-healthcare-registry_june2017.csv,"https://hub.mph.in.gov/dataset/volunteer-healthcare-registry/resource/4dc1f255-e98c-4ce7-814a-fbef51f48960#:~:text=Data%20API-,VOL%20HEALTHCARE%20REGISTRY_JUNE2017,-URL%3A%20https",
+Ob-Gyn Providers,COUNT OF OB-GYN PROVIDERS BY COUNTY,Indiana State Department of Health,Management Performance Hub,781 bytes,Free,2019-09-24,,CSV,No,68.0,2,"county, provider",https://hub.mph.in.gov/dataset/6340d6a1-e4c0-4567-afe5-6344e45cfb68/resource/11cbac83-15e1-4ebf-b366-fb0425745373/download/count-of-ob-gyn-providers-by-county.csv,"https://hub.mph.in.gov/dataset/count-of-ob-gyn-providers-by-county/resource/11cbac83-15e1-4ebf-b366-fb0425745373#:~:text=Download-,COUNT%20OF%20OB%2DGYN%20PROVIDERS%20BY%20COUNTY,-URL%3A%20https",
+Hospital,COUNTIES WITH OR WITHOUT HOSPITAL OR INPATIENT DELIVERY SERVICES AVAILABLE,Indiana State Department of Health,Management Performance Hub,11 KiB,Free,2019-09-24,2019-09-24,CSV,No,92.0,3,"county, county with inpatient delivery services, county with hospital",https://hub.mph.in.gov/dataset/eb2f688f-d3cb-4c57-a83b-4400cc7309f0/resource/8d6f3b48-571c-4812-9008-04f9c4d34a6d/download/counties-with-or-without-hospitals-and-inpatient-delivery-services.xlsx,https://hub.mph.in.gov/dataset/counties-without-hospital-or-inpatient-delivery-services-available/resource/8d6f3b48-571c-4812-9008-04f9c4d34a6d#:~:text=COUNTIES%20WITH%20OR%20WITHOUT%20HOSPITAL%20OR%20INPATIENT...,
+Facility Locations,STATE OPERATED FACILITY LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,9.2 KiB,Free,2019-06-04,2019-06-04,CSV,No,6.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/0d0e0d77-34c3-447f-8a3d-69ae2f34a94c/resource/39092879-3cdc-4c54-b1c4-4053a7d1a6fa/download/state-operated-facilities.xlsx,"https://hub.mph.in.gov/dataset/state-operated-facilities/resource/39092879-3cdc-4c54-b1c4-4053a7d1a6fa#:~:text=Download-,STATE%20OPERATED%20FACILITY%20LOCATIONS,-URL%3A%20https",
+Healthcare Coordination Provider,BEHAVIORAL & PRIMARY HEALTHCARE COORDINATION PROVIDER LOCATION,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,12.2 KiB,Free,2019-06-04,2019-06-04,CSV,No,22.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/173dc1a5-b0ce-4072-ab16-61287b7bdf12/resource/80f4fc39-dfae-4da7-aa22-6bae375244ec/download/behavioral-primary-healthcare-coordination.xlsx,https://hub.mph.in.gov/dataset/behavioral-primary-healthcare-coordination/resource/80f4fc39-dfae-4da7-aa22-6bae375244ec#:~:text=BEHAVIORAL%20%26%20PRIMARY%20HEALTHCARE%20COORDINATION...,
+Births And Infant Deaths,INDIANA BIRTHS AND INFANT DEATHS,Indiana State Department of Health,Management Performance Hub,112.9 MiB,Free,2019-09-17,2020-11-30,CSV,No,,not availabel at the moment,not availabel at the moment,https://hub.mph.in.gov/dataset/8cb070ed-8aa0-4645-a0bf-5a5413c44a38/resource/77a62f49-d060-4c9d-a47a-20fa0e3f974e/download/indiana-births-and-infant-deaths_2020.csv,"https://hub.mph.in.gov/dataset/indiana-births-and-infant-deaths/resource/77a62f49-d060-4c9d-a47a-20fa0e3f974e#:~:text=Download-,INDIANA%20BIRTHS%20AND%20INFANT%20DEATHS,-URL%3A%20https",
+Covid-19,COVID-19 CASES BY SCHOOl,RedCap/Principal Portal,Indiana State Department of Health,326.2 KiB,Free,2020-10-09,2022-03-28,CSV,No,5000.0,14,"school_id	text		
+school_name	text		
+county_fips	numeric		
+school_address	text		
+school_county	text		
+school_zip	text		
+school_city	text		
+longitude	numeric		
+latitude	numeric		
+student_total_cases	text		
+teacher_total_cases	text		
+staff_total_cases	text		
+submission_status	text		
+school_year	numeric",https://hub.mph.in.gov/dataset/61c058c1-abfc-48fb-9bd7-bbf052fe61d6/resource/39239f34-11ff-4dfc-9b9a-a408b0399458/download/covid_report_cases_by_school.xlsx,"https://hub.mph.in.gov/dataset/covid-19-cases-by-school/resource/39239f34-11ff-4dfc-9b9a-a408b0399458#:~:text=Data%20API-,COVID%2D19%20CASES%20BY%20SCHOOL,-URL%3A%20https",
+Infant Mortality,"INFANT MORTALITY BY COUNTY, YEAR, AND UNDERLYING CAUSE OF DEATH",Indiana Department of Health,Management Performance Hub,188 KiB,Free,2019-09-17,2020-10-02,CSV,No,3000.0,8,"CNTY	text		
+CHILD_DEATH_YR	numeric		
+UNDERLYING_COD	text		
+CNT_BY_UNDERLYING_COD	numeric		
+CNTY_YR_DEATH_TOTAL	numeric		
+PCT_CNTY_YR_TOTAL	numeric		
+CHILD_DEATH_CNTY_POP	numeric		
+CNTY_YR_DEATH_TOTAL_PER_100000_CNTY_RES	numeric",https://hub.mph.in.gov/dataset/db835ab2-f3fa-4fd7-98ea-5414740551e3/resource/16536d16-4b28-4493-a6c2-4818b9e8ee56/download/infant-mortality-by-county-year-and-underlying-cause-of-death_2020.csv,https://hub.mph.in.gov/dataset/infant-mortality-by-county-year-and-underlying-cause-of-death/resource/16536d16-4b28-4493-a6c2-4818b9e8ee56#:~:text=INFANT%20MORTALITY%20BY%20COUNTY%20YEAR%20AND%20UNDERLYING...,
+Provider Locations,FIRST STEPS PROVIDER LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,9.5 KiB,Free,2019-06-04,2019-06-04,CSV,No,9.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/6a2ac9b5-8979-4eea-870f-048fb7ee0285/resource/06196519-9daf-4bb8-9e95-c5bc77ea52d4/download/first-steps.xlsx,"https://hub.mph.in.gov/dataset/first-steps/resource/06196519-9daf-4bb8-9e95-c5bc77ea52d4#:~:text=Download-,FIRST%20STEPS%20PROVIDER%20LOCATIONS,-URL%3A%20https",
+Covid-19,COVID-19 CENSUS BY PUI AND CONFIRMED,ISDH - REDCAP,Indiana State Department of Health,32.2 KiB,Free,2020-08-24,2023-04-05,XLSX,No,1000.0,4,"DATE	timestamp		
+TOTAL COVID19 PATIENTS	numeric		
+CONFIRMED COVID19 PATIENTS	numeric		
+COVID19 PUI PATIENTS	numeric",https://hub.mph.in.gov/dataset/d57037d4-6dab-4f09-9905-9349e9180ce9/resource/efa7b90c-b204-4618-9436-e33aac140e71/download/covid_report_puibed_date.xlsx,"https://hub.mph.in.gov/dataset/covid-19-census-by-pui-and-confirmed/resource/efa7b90c-b204-4618-9436-e33aac140e71#:~:text=Data%20API-,COVID%2D19%20CENSUS%20BY%20PUI%20AND%20CONFIRMED,-URL%3A%20https",
+Covid-19,COVID-19 CASE AND DEATH REPORTING IN LTC FACILITIES,ISDH - REDCAP,Indiana State Department of Health,30.4 KiB,Free,2020-08-13,2022-05-04,XLSX,No,812.0,5,"facility_name	text		
+facility_submission_status	text		
+infected_residents	text		
+infected_staff	text		
+resident_deaths	text",https://hub.mph.in.gov/dataset/c2c241cf-cf92-4870-9ac3-a59328f12c33/resource/61487163-7efb-42ee-bcb7-fa1c720debdd/download/ltc_facility_cases_and_deaths.xlsx,"https://hub.mph.in.gov/dataset/covid-19-case-and-death-reporting-in-ltc-facilities/resource/61487163-7efb-42ee-bcb7-fa1c720debdd#:~:text=Data%20API-,COVID%2D19%20CASE%20AND%20DEATH%20REPORTING%20IN%20LTC%20FACILITIES,-URL%3A%20https",
+Children Born,INFANT CLAIMS BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,3.2 KiB,Free,2019-08-30,2020-10-02,CSV,No,93.0,4,"COUNTY	text		
+TOTAL_CLAIMS	numeric		
+TOTAL_COST	numeric		
+MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/d72a6291-8b56-4a5b-bc1c-bfdfd71b6dd1/resource/209bf480-bae2-4518-ba0d-244f21c825eb/download/infant-claims-by-recipient-county.csv,"https://hub.mph.in.gov/dataset/infant-claims-by-recipient-county/resource/209bf480-bae2-4518-ba0d-244f21c825eb#:~:text=Data%20API-,INFANT%20CLAIMS%20BY%20RECIPIENT%20COUNTY,-URL%3A%20https",
+Mothers With A Live Birth,COUNT OF MOTHERS BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,1.6 KiB,Free,2019-08-30,2020-10-02,CSV,No,93.0,2,"COUNTY	text		
+RECIPIENTS	numeric",https://hub.mph.in.gov/dataset/74881778-735c-4260-9a62-f8afe4cd46a0/resource/9b18a616-681c-4844-ab80-1ab46dd3dff0/download/count-of-mothers-by-recipient-county.csv,"https://hub.mph.in.gov/dataset/count-of-mothers-by-recipient-county/resource/9b18a616-681c-4844-ab80-1ab46dd3dff0#:~:text=Data%20API-,COUNT%20OF%20MOTHERS%20BY%20RECIPIENT%20COUNTY,-URL%3A%20https",
+Children Born Between 07/2016 And 07/2020,BIRTH COUNT BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,1.6 KiB,Free,2019-08-30,2020-10-02,CSV,No,93.0,2,"COUNTY	text		
+RECIPIENTS	numeric",https://hub.mph.in.gov/dataset/55e2cbf7-085d-4086-84dd-79613d06aa23/resource/59faf526-d40f-432f-83e9-fc4bfe3179fc/download/birth-count-by-recipient-county.csv,"https://hub.mph.in.gov/dataset/birth-count-by-recipient-county/resource/59faf526-d40f-432f-83e9-fc4bfe3179fc#:~:text=Data%20API-,BIRTH%20COUNT%20BY%20RECIPIENT%20COUNTY,-URL%3A%20https",
+Growth Restriction,"RATE OF INTRAUTERINE GROWTH RESTRICTION AND PREECLAMPSIA BY YEAR, GENDER, AND ZIP",Regenstrief Institute,Regenstrief Institute,9.2 KiB,Free,2019-09-12,2020-10-02,CSV,No,140.0,7,"zip_code	numeric		
+year	numeric		
+iugr	numeric		
+preeclampsia	numeric		
+male	numeric		
+female	numeric		
+unknown	numeric",https://hub.mph.in.gov/dataset/dcdcee0c-ca93-4586-af9c-c843046ffc92/resource/6776c647-2d76-44e1-93fe-02b4ee739dde/download/regenstrief_momandbaby_datapalooza.csv,https://hub.mph.in.gov/dataset/mothers-diagnosed-with-intrauterine-growth-restriction-iurg-or-pre-eclampsia-by-zipcode/resource/6776c647-2d76-44e1-93fe-02b4ee739dde#:~:text=RATE%20OF%20INTRAUTERINE%20GROWTH%20RESTRICTION%20AND...,
+Covid-19,COVID-19 CASES BY ZIP,ISDH - NBS,"ISDH, FSSA",23.5 KiB,Free,2022-03-21,2022-03-21,CSV,No,770.0,4,"ZIP_CD	text		
+PATIENT_COUNT	text		
+POPULATION	text		
+PERCENTAGE	text",https://hub.mph.in.gov/dataset/14a59397-9ebc-4902-a7c7-fd7ca3c08101/resource/3ea01356-42e4-42aa-8935-493709313ca3/download/covid_count_per_zip_all.csv,"https://hub.mph.in.gov/dataset/covid-19-cases-by-zip/resource/3ea01356-42e4-42aa-8935-493709313ca3#:~:text=Data%20API-,COVID%2D19%20CASES%20BY%20ZIP,-URL%3A%20https",
+Covid-19,COVID-19 CASE DEMOGRAPHICS BY COUNTY AND DISTRICT,ISDH - NBS/PHESS,Indiana State Department of Health,134.6 KiB,Free,2023-03-16,2023-03-16,CSV,NO,306.0,10,"location_level	text		
+location_id	numeric		
+ethnicity	text		
+covid_test	numeric		
+covid_count	numeric		
+covid_deaths	numeric		
+covid_test_pct	numeric		
+covid_count_pct	numeric		
+covid_deaths_pct	numeric		
+county_name	text",https://hub.mph.in.gov/dataset/07e12c46-eb38-43cf-b9e1-46a9c305beaa/resource/b51430dc-fb8e-4af7-94fc-f9918c79fdca/download/covid_report_demographics_county_district_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-case-demographics-by-county/resource/b51430dc-fb8e-4af7-94fc-f9918c79fdca#:~:text=03/15/2023%3A%20HISTORICAL%20COVID%2D19%20CASE...,
+Covid-19,COVID-19 CASE DEMOGRAPHICS BY COUNTY AND DISTRICT,ISDH - NBS,Indiana State Department of Health,8.3 KiB,Free,2023-03-16,2023-03-16,XLSX,No,3.0,7,"ETHNICITY        text                
+COVID_TEST        numeric                
+COVID_COUNT        numeric                
+COVID_DEATHS        numeric                
+COVID_TEST_PCT        numeric                
+COVID_COUNT_PCT        numeric                
+COVID_DEATHS_PCT        numeric",https://hub.mph.in.gov/dataset/62ddcb15-bbe8-477b-bb2e-175ee5af8629/resource/416eafbc-672c-46db-a7ca-c7b187fcdc9f/download/covid_report_demographics_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-case-demographics/resource/416eafbc-672c-46db-a7ca-c7b187fcdc9f#:~:text=03/15/2023%3A%20HISTORICAL%20COVID%2D19%20CASE%20DEMOGRAPHICS,
+Covid-19,HISTORICAL COVID-19 CASE...,ISDH - NBS,Indiana State Department of Health,8.4 KiB,Free,2023-03-16,2023-03-16,XLSX,No,9.0,2,"Field Name	text		
+Field Description	text",https://hub.mph.in.gov/dataset/62ddcb15-bbe8-477b-bb2e-175ee5af8629/resource/d343ba0b-0314-49a9-8a65-b4cb1a21e6bf/download/covid-19_case_demographics_datadictionary_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-case-demographics/resource/d343ba0b-0314-49a9-8a65-b4cb1a21e6bf#:~:text=03/15/2023%3A%20HISTORICAL%20COVID%2D19%20CASE...,
+Covid-19,COVID_REPORT_DEMOGRAPHICS.XLSX,ISDH - NBS,Indiana State Department of Health,7.9 KiB,Free,2023-03-16,2023-04-05,XLSX,No,3.0,5,"ETHNICITY	text		
+COVID_COUNT	numeric		
+COVID_DEATHS	numeric		
+COVID_COUNT_PCT	numeric		
+COVID_DEATHS_PCT	numeric",https://hub.mph.in.gov/dataset/62ddcb15-bbe8-477b-bb2e-175ee5af8629/resource/a82203e7-7ac4-4c3e-a6f4-67390fbd609a/download/covid_report_demographics.xlsx,"https://hub.mph.in.gov/dataset/covid-19-case-demographics/resource/a82203e7-7ac4-4c3e-a6f4-67390fbd609a#:~:text=Data%20API-,COVID_REPORT_DEMOGRAPHICS.XLSX,-URL%3A%20https",
+Covid-19,COVID-19 DEATHS BY DATE BY AGE GROUP,ISDH - VR or NBS,Indiana State Department of Health,66.4 KiB,Free,2020-08-14,2023-04-05,XLSX,No,4000.0,3,"date	timestamp		
+agegrp	text		
+covid_deaths	numeric",https://hub.mph.in.gov/dataset/6bcfb11c-6b9e-44b2-be7f-a2910d28949a/resource/7661f008-81b5-4ff2-8e46-f59ad5aad456/download/covid_report_death_date_agegrp.xlsx,"https://hub.mph.in.gov/dataset/covid-19-deaths-by-date-by-age-group/resource/7661f008-81b5-4ff2-8e46-f59ad5aad456#:~:text=Data%20API-,COVID%2D19%20DEATHS%20BY%20DATE%20BY%20AGE%20GROUP,-URL%3A%20https",
+Covid-19,COVID-19 CASE DATA,"ISDH, FSSA",Indiana State Department of Health,15.6 MiB,Free,2020-04-06,2023-04-05,XLSX,No,314000.0,6,"LOCATION_ID	numeric		
+GENDER	text		
+AGEGRP	text		
+DATE	timestamp		
+COVID_COUNT	numeric		
+COUNTY_NAME	text",https://hub.mph.in.gov/dataset/6b57a4f2-b754-4f79-a46b-cff93e37d851/resource/46b310b9-2f29-4a51-90dc-3886d9cf4ac1/download/covid_report.xlsx,"https://hub.mph.in.gov/dataset/covid-19-case-data/resource/46b310b9-2f29-4a51-90dc-3886d9cf4ac1#:~:text=Data%20API-,COVID%2D19%20CASE%20DATA,-URL%3A%20https",
+Service Provider,BLIND & VISUALLY IMPAIRED SERVICE PROVIDER LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,10.7 KiB,Free,2019-06-04,2019-06-04,XLSX,No,6.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/c77ad3c4-fc0f-4d89-8dbe-a1bba79ea64a/resource/e2c129c4-5dfe-4542-bf55-444c0c3a3284/download/blind-visually-impaired-services.xlsx,"https://hub.mph.in.gov/dataset/blind-visually-impaired-services/resource/e2c129c4-5dfe-4542-bf55-444c0c3a3284#:~:text=Download-,BLIND%20%26%20VISUALLY%20IMPAIRED%20SERVICE%20PROVIDER%20LOCATIONS,-URL%3A%20https",
+Mothers With Substance Use,PRESCRIPTION RELATED CLAIMS OF MOTHERS WITH SUBSTANCE USE BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,6.2 KiB,Free,2019-09-03,2020-10-02,CSV,No,87.0,9,"COUNTY	text		
+TOTAL_PRESCRIPTIONS	numeric		
+TOTAL_PRESCRIPTION_COST	numeric		
+TOTAL_PRESCRIPTIONS_PREBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_PREBIRTHING_EVENT	numeric		
+PREBIRTHING_MEDIAN_COST	numeric		
+TOTAL_PRESCRIPTIONS_POSTBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_POSTBIRTHING_EVENT	numeric		
+POSTBIRTHING_MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/b3ed9eaa-cb54-44ef-bf83-0fb272999e2b/resource/2f636563-172a-4efc-98c0-15bd45be3610/download/prescription-related-claims_substance-use.csv,https://hub.mph.in.gov/dataset/prescription-related-claims-of-mothers-with-substance-use-by-recipient-county/resource/2f636563-172a-4efc-98c0-15bd45be3610#:~:text=PRESCRIPTION%20RELATED%20CLAIMS%20OF%20MOTHERS%20WITH...,
+Mothers With Pre-Term Delivery,PRESCRIPTION RELATED CLAIMS OF MOTHERS WITH PRE-TERM DELIVERY BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,3.8 KiB,Free,2019-09-03,2020-10-02,CSV,No,53.0,9,"COUNTY	text		
+TOTAL_PRESCRIPTIONS	numeric		
+TOTAL_PRESCRIPTION_COST	numeric		
+TOTAL_PRESCRIPTIONS_PREBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_PREBIRTHING_EVENT	numeric		
+PREBIRTHING_MEDIAN_COST	numeric		
+TOTAL_PRESCRIPTIONS_POSTBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_POSTBIRTHING_EVENT	numeric		
+POSTBIRTHING_MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/07146ade-a340-47f3-9839-ef01c619dc62/resource/a6e70e65-e868-4023-a166-9dab80352d3c/download/prescription-related-claims_preterm-delivery.csv,https://hub.mph.in.gov/dataset/prescription-related-claims-of-mothers-with-pre-term-delivery-by-recipient-county/resource/a6e70e65-e868-4023-a166-9dab80352d3c#:~:text=PRESCRIPTION%20RELATED%20CLAIMS%20OF%20MOTHERS%20WITH...,
+Mothers With Diabetes,PRESCRIPTION RELATED CLAIMS OF MOTHERS WITH DIABETES BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,5.2 KiB,Free,2019-08-30,2020-10-02,CSV,No,73.0,9,"COUNTY	text		
+TOTAL_PRESCRIPTIONS	numeric		
+TOTAL_PRESCRIPTION_COST	numeric		
+TOTAL_PRESCRIPTIONS_PREBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_PREBIRTHING_EVENT	numeric		
+PREBIRTHING_MEDIAN_COST	numeric		
+TOTAL_PRESCRIPTIONS_POSTBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_POSTBIRTHING_EVENT	numeric		
+POSTBIRTHING_MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/9ba31ad1-3876-4291-9260-a4aa670de16c/resource/ee28629b-afe0-4463-9513-712958474c07/download/prescription-related-claims_diabetes-by-recipient-county.csvv,https://hub.mph.in.gov/dataset/prescription-related-claims-of-mothers-with-diabetes-by-recipient-county/resource/ee28629b-afe0-4463-9513-712958474c07#:~:text=PRESCRIPTION%20RELATED%20CLAIMS%20OF%20MOTHERS%20WITH...,
+Mothers With An Er Visit,PRESCRIPTION RELATED CLAIMS OF MOTHERS WITH AN ER VISIT BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,5.7 KiB,Free,2019-09-03,2020-10-02,CSV,No,80.0,9,"COUNTY	text		
+TOTAL_PRESCRIPTIONS	numeric		
+TOTAL_PRESCRIPTION_COST	numeric		
+TOTAL_PRESCRIPTIONS_PREBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_PREBIRTHING_EVENT	numeric		
+PREBIRTHING_MEDIAN_COST	numeric		
+TOTAL_PRESCRIPTIONS_POSTBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_POSTBIRTHING_EVENT	numeric		
+POSTBIRTHING_MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/b6c042b5-ff33-4b4f-a7b1-85cdbcdd0c64/resource/0f7cb803-0237-4191-bddc-259a5a51ff25/download/prescription-related-claims_er-visit-by-recipient-county.csv,https://hub.mph.in.gov/dataset/prescription-related-claims-of-mothers-with-an-er-visit-by-recipient-county/resource/0f7cb803-0237-4191-bddc-259a5a51ff25#:~:text=PRESCRIPTION%20RELATED%20CLAIMS%20OF%20MOTHERS%20WITH%20AN...,
+Mothers Diagnosed With Stress,PRESCRIPTION RELATED CLAIMS OF MOTHERS DIAGNOSED WITH STRESS BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,5.9 KiB,Free,2019-09-03,2020-10-02,CSV,No,82.0,9,"COUNTY	text		
+TOTAL_PRESCRIPTIONS	numeric		
+TOTAL_PRESCRIPTION_COST	numeric		
+TOTAL_PRESCRIPTIONS_PREBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_PREBIRTHING_EVENT	numeric		
+PREBIRTHING_MEDIAN_COST	numeric		
+TOTAL_PRESCRIPTIONS_POSTBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_POSTBIRTHING_EVENT	numeric		
+POSTBIRTHING_MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/1a0db5ce-8736-4642-abcd-3a7b2c411dca/resource/89e3c9f4-115f-428f-9191-c8bd21ccd8b5/download/prescription-related-claims-of-mothers-diagnosed-with-stress-by-recipient-county.csv,https://hub.mph.in.gov/dataset/prescription-related-claims-of-mothers-diagnosed-with-stress-by-recipient-county/resource/89e3c9f4-115f-428f-9191-c8bd21ccd8b5#:~:text=PRESCRIPTION%20RELATED%20CLAIMS%20OF%20MOTHERS...,
+Mothers Diagnosed With Obesity,PRESCRIPTION-RELATED CLAIMS OF MOTHERS DIAGNOSED WITH OBESITY BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,4.4 KiB,Free,2019-08-30,2019-09-03,CSV,No,61.0,9,"COUNTY	text		
+TOTAL_PRESCRIPTIONS	numeric		
+TOTAL_PRESCRIPTION_COST	numeric		
+TOTAL_PRESCRIPTIONS_PREBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_PREBIRTHING_EVENT	numeric		
+PREBIRTHING_MEDIAN_COST	numeric		
+TOTAL_PRESCRIPTIONS_POSTBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_POSTBIRTHING_EVENT	numeric		
+POSTBIRTHING_MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/b1906fbd-aafb-4a4f-9f35-fbeefc92a07b/resource/0f46cd23-530f-4358-ae39-b74603797926/download/09_prescription_related_claims_of_mothers_diagnosed_with_obesity_by_recipient_county.csv,https://hub.mph.in.gov/dataset/prescription-related-claims-of-mothers-diagnosed-with-obesity-by-recipient-county/resource/0f46cd23-530f-4358-ae39-b74603797926#:~:text=PRESCRIPTION%20RELATED%20CLAIMS%20OF%20MOTHERS...,
+Mothers With A Live Birth,PRESCRIPTION RELATED CLAIMS BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,6.8 KiB,Free,2019-08-30,2020-10-02,CSV,No,93.0,9,"COUNTY	text		
+TOTAL_PRESCRIPTIONS	numeric		
+TOTAL_PRESCRIPTION_COST	numeric		
+TOTAL_PRESCRIPTIONS_PREBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_PREBIRTHING_EVENT	numeric		
+PREBIRTHING_MEDIAN_COST	numeric		
+TOTAL_PRESCRIPTIONS_POSTBIRTHING_EVENT	numeric		
+PRESCRIPTION_COST_POSTBIRTHING_EVENT	numeric		
+POSTBIRTHING_MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/b8192d38-cbbc-438e-a3c5-fe7be0b3e010/resource/0cf62b0a-4526-40a4-a632-08cdd9840ae9/download/prescription-related-claims-by-recipient-county.csv,"https://hub.mph.in.gov/dataset/prescription-related-claims-by-recipient-county/resource/0cf62b0a-4526-40a4-a632-08cdd9840ae9#:~:text=Data%20API-,PRESCRIPTION%20RELATED%20CLAIMS%20BY%20RECIPIENT%20COUNTY,-URL%3A%20https",
+Mothers With An Er Visit,MOTHERS WITH AN ER VISIT BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,1.3 KiB,Free,2019-09-03,2020-10-02,CSV,No,80.0,2,"COUNTY	text		
+RECIPIENTS	numeric",https://hub.mph.in.gov/dataset/c5e2b9d8-ab44-490e-9e37-eee3e9db3b62/resource/4ef71011-5784-4ab9-b2d0-63ba2a8b4f10/download/mothers-with-an-er-visit-by-recipient-county.csv,"https://hub.mph.in.gov/dataset/mothers-with-an-er-visit-by-recipient-county/resource/4ef71011-5784-4ab9-b2d0-63ba2a8b4f10#:~:text=Data%20API-,MOTHERS%20WITH%20AN%20ER%20VISIT%20BY%20RECIPIENT%20COUNTY,-URL%3A%20https",
+Mothers With A Stress,MOTHERS WITH A STRESS RELATED CLAIM BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,1.4 KiB,Free,2019-09-03,2020-10-02,CSV,No,82.0,2,"COUNTY	text		
+RECIPIENTS	numeric",https://hub.mph.in.gov/dataset/96a26efa-d9b9-4131-81e2-2f0804d069c3/resource/1a677106-5ef8-49c0-b918-b6905b8a4e0b/download/mothers-with-a-stress-related-claim-by-recipient-county.csv,"https://hub.mph.in.gov/dataset/mothers-with-a-stress-related-claim-by-recipient-county/resource/1a677106-5ef8-49c0-b918-b6905b8a4e0b#:~:text=Data%20API-,MOTHERS%20WITH%20A%20STRESS%20RELATED%20CLAIM%20BY%20RECIPIENT%20COUNTY,-URL%3A%20https",
+Mothers With A Pre-Term Delivery,MOTHERS WITH A PRE-TERM DELIVERY RELATED CLAIM BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,927 bytes,Free,2019-09-03,2020-10-02,Csv,No,53.0,2,"COUNTY	text		
+RECIPIENTS	numeric",https://hub.mph.in.gov/dataset/d2696bb7-dfff-4eab-9780-273896f493de/resource/5e0dbb14-8349-4af5-acd5-4b4f0e78b70d/download/mothers-with-an-preterm-delivery-related-claim-by-recipient-county.csv,https://hub.mph.in.gov/dataset/mothers-with-a-pre-term-delivery-related-claim-by-recipient-county/resource/5e0dbb14-8349-4af5-acd5-4b4f0e78b70d#:~:text=MOTHERS%20WITH%20A%20PRE%2DTERM%20DELIVERY%20RELATED%20CLAIM...,
+Mothers With A Diabetes,MOTHERS WITH A DIABETES RELATED CLAIM BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,1.2 KiB,Free,2019-08-30,2020-10-02,CSV,No,73.0,2,"COUNTY	text		
+RECIPIENTS	numeric",https://hub.mph.in.gov/dataset/6d202617-09b4-4303-b110-5a7ee18bdc45/resource/1817e997-badb-4d9a-b457-a2c067798744/download/mothers-with-a-diabetes-related-claim-by-recipient-county.csv,https://hub.mph.in.gov/dataset/mothers-with-a-diabetes-related-claim-by-recipient-county/resource/1817e997-badb-4d9a-b457-a2c067798744#:~:text=MOTHERS%20WITH%20A%20DIABETES%20RELATED%20CLAIM%20BY...,
+Infant Prescription,INFANT PRESCRIPTION RELATED CLAIMS BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,2.6 KiB,Free,2019-08-30,2020-10-02,CSV,No,93.0,3,"COUNTY	text		
+TOTAL_PRESCRIPTIONS	numeric		
+TOTAL_PRESCRIPTION_COST	numeric",https://hub.mph.in.gov/dataset/490755a6-4755-4060-ab26-646c544636ed/resource/c0994219-e833-4337-95e3-8edab622ca95/download/infant-prescription-related-claims-by-recipient-county.csv,"https://hub.mph.in.gov/dataset/infant-prescription-related-claims-by-recipient-county/resource/c0994219-e833-4337-95e3-8edab622ca95#:~:text=Data%20API-,INFANT%20PRESCRIPTION%20RELATED%20CLAIMS%20BY%20RECIPIENT%20COUNTY,-URL%3A%20https",
+Mothers Diagnosed With Obesity,COUNT OF MOTHERS DIAGNOSED WITH OBESITY BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,1 KiB,Free,2019-08-30,2020-10-02,CSV,No,59.0,2,"COUNTY        text                
+RECIPIENTS        numeric",https://hub.mph.in.gov/dataset/baa800c2-c6ba-45f5-a1bf-11e9326c28e5/resource/867296c1-54cf-41cc-824b-31524ec1e7ab/download/count-of-mothers-diagnosed-with-obesity-by-recipient-county.csv,https://hub.mph.in.gov/dataset/count-of-mothers-diagnosed-with-obesity-by-recipient-county/resource/867296c1-54cf-41cc-824b-31524ec1e7ab#:~:text=COUNT%20OF%20MOTHERS%20DIAGNOSED%20WITH%20OBESITY%20BY...,
+Mothers With Substance Use,CLAIMS OF MOTHERS WITH SUBSTANCE USE BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Management Performance Hub,6.3 KiB,Free,2019-09-03,2020-10-02,CSV,No,87.0,9,"COUNTY	text		
+TOTAL_CLAIMS	numeric		
+TOTAL_COST	numeric		
+TOTAL_CLAIMS_PREBIRTHING_EVENT	numeric		
+TOTAL_COST_PREBIRTHING_EVENT	numeric		
+PREBIRTHING_MEDIAN_COST	numeric		
+TOTAL_CLAIMS_POSTBIRTHING_EVENT	numeric		
+TOTAL_COST_POSTBIRTHING_EVENT	numeric		
+POSTBIRTHING_MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/9d6ec92d-de6c-445d-ae9a-e242af1a9661/resource/84d1532c-ced4-4c1c-b892-ee6722c127b7/download/claims-of-mothers-with-substance-use-by-recipient-county.csv,https://hub.mph.in.gov/dataset/claims-of-mothers-with-substance-use-by-recipient-county/resource/84d1532c-ced4-4c1c-b892-ee6722c127b7#:~:text=CLAIMS%20OF%20MOTHERS%20WITH%20SUBSTANCE%20USE%20BY...,
+Mothers With Pre-Term Delivery,CLAIMS OF MOTHERS WITH PRE-TERM DELIVERY BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,3.9 KiB,Free,2019-09-03,2020-10-02,CSV,No,53.0,0,"COUNTY	text		
+TOTAL_CLAIMS	numeric		
+TOTAL_COST	numeric		
+TOTAL_CLAIMS_PREBIRTHING_EVENT	numeric		
+TOTAL_COST_PREBIRTHING_EVENT	numeric		
+PREBIRTHING_MEDIAN_COST	numeric		
+TOTAL_CLAIMS_POSTBIRTHING_EVENT	numeric		
+TOTAL_COST_POSTBIRTHING_EVENT	numeric		
+POSTBIRTHING_MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/d450e6c5-9877-4840-9e97-b2b96cb1c08e/resource/b8951968-b4ea-4559-a409-6380fdf8ff5d/download/claims-of-mothers-with-preterm-delivery-by-recipient-county.csv,https://hub.mph.in.gov/dataset/claims-of-mothers-with-pre-term-delivery-by-recipient-county/resource/b8951968-b4ea-4559-a409-6380fdf8ff5d#:~:text=CLAIMS%20OF%20MOTHERS%20WITH%20PRE%2DTERM%20DELIVERY%20BY...,
+Mothers With Diabetes,CLAIMS OF MOTHERS WITH DIABETES BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,5.3 KiB,Free,2019-08-30,2020-10-02,CSV,No,73.0,9,"COUNTY	text		
+TOTAL_CLAIMS	numeric		
+TOTAL_COST	numeric		
+TOTAL_CLAIMS_PREBIRTHING_EVENT	numeric		
+TOTAL_COST_PREBIRTHING_EVENT	numeric		
+PREBIRTHING_MEDIAN_COST	numeric		
+TOTAL_CLAIMS_POSTBIRTHING_EVENT	numeric		
+TOTAL_COST_POSTBIRTHING_EVENT	numeric		
+POSTBIRTHING_MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/a5acf50e-7bfb-4a26-b3cc-e55213075eb8/resource/0b9de5bf-258a-4942-ae95-30fe333d7582/download/claims-of-mothers-with-diabetes-by-recipient-county.csv,"https://hub.mph.in.gov/dataset/claims-of-mothers-with-diabetes-by-recipient-county/resource/0b9de5bf-258a-4942-ae95-30fe333d7582#:~:text=Data%20API-,CLAIMS%20OF%20MOTHERS%20WITH%20DIABETES%20BY%20RECIPIENT%20COUNTY,-URL%3A%20https",
+Mothers With An Er Visit,CLAIMS OF MOTHERS WITH AN ER VISIT BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,5.8 KiB,Free,2019-09-03,2020-10-02,CSV,No,80.0,9,"COUNTY	text		
+TOTAL_CLAIMS	numeric		
+TOTAL_COST	numeric		
+TOTAL_CLAIMS_PREBIRTHING_EVENT	numeric		
+TOTAL_COST_PREBIRTHING_EVENT	numeric		
+PREBIRTHING_MEDIAN_COST	numeric		
+TOTAL_CLAIMS_POSTBIRTHING_EVENT	numeric		
+TOTAL_COST_POSTBIRTHING_EVENT	numeric		
+POSTBIRTHING_MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/beeb019d-9bfc-4e41-bc15-aa27165a51dc/resource/95f202d9-7abd-4691-8625-a1895e21f3b4/download/claims-of-mothers-with-an-er-visit-by-recipient-county.csv,"https://hub.mph.in.gov/dataset/claims-of-mothers-with-an-er-visit-by-recipient-county/resource/95f202d9-7abd-4691-8625-a1895e21f3b4#:~:text=Data%20API-,CLAIMS%20OF%20MOTHERS%20WITH%20AN%20ER%20VISIT%20BY%20RECIPIENT%20COUNTY,-URL%3A%20https",
+Mothers Diagnosed With Stress,CLAIMS OF MOTHERS DIAGNOSED WITH STRESS BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,5.9 KiB,Free,2019-09-03,2020-10-02,CSV,No,82.0,9,"COUNTY	text		
+TOTAL_CLAIMS	numeric		
+TOTAL_COST	numeric		
+TOTAL_CLAIMS_PREBIRTHING_EVENT	numeric		
+TOTAL_COST_PREBIRTHING_EVENT	numeric		
+PREBIRTHING_MEDIAN_COST	numeric		
+TOTAL_CLAIMS_POSTBIRTHING_EVENT	numeric		
+TOTAL_COST_POSTBIRTHING_EVENT	numeric		
+POSTBIRTHING_MEDIAN_COST	numeric",https://hub.mph.in.gov/dataset/9de3f203-8ea0-4b44-8909-0b911e8593b1/resource/6a4e21ee-6ebd-45de-bb82-45950983d3b7/download/claims-of-mothers-diagnosed-with-stress-by-recipient-county.csv,https://hub.mph.in.gov/dataset/claims-of-mothers-diagnosed-with-stress-by-recipient-county/resource/6a4e21ee-6ebd-45de-bb82-45950983d3b7#:~:text=CLAIMS%20OF%20MOTHERS%20DIAGNOSED%20WITH%20STRESS%20BY..,
+Covid-19,COVID-19 BED AND VENT USAGE BY DAY,ISDH - EMR,"ISDH, FSSA",93.9 KiB,Free,2020-06-05,2023-04-05,CVS,No,1000.0,15,"DATE	timestamp		
+BEDS_ICU_TOTAL	numeric		
+BEDS_ICU_OCCUPIED_COVID_19	numeric		
+BEDS_ICU_NO_OCCUPIED_COVID_19	numeric		
+BEDS_AVAILABLE_ICU_BEDS_TOTAL	numeric		
+VENTS_TOTAL	numeric		
+VENTS_ALL_USE_COVID_19	numeric		
+VENTS_NON_COVID_PTS_ON_VENTS	numeric		
+VENTS_ALL_AVAILABLE_VENTS_NOT_IN_USE	numeric		
+PCT_BEDS_ICU_OCCUPIED_COVID_19	numeric		
+PCT_BEDS_ICU_NO_OCCUPIED_COVID_19	numeric		
+PCT_BEDS_AVAILABLE_ICU_BEDS_TOTAL	numeric		
+PCT_VENTS_ALL_USE_COVID_19	numeric		
+PCT_VENTS_NON_COVID_PTS_ON_VENTS	numeric		
+PCT_VENTS_ALL_AVAILABLE_VENTS_NOT_IN_USE	numeric",https://hub.mph.in.gov/dataset/4d31808a-85da-4a48-9a76-a273e0beadb3/resource/0c00f7b6-05b0-4ebe-8722-ccf33e1a314f/download/covid_report_bedvent_date.xlsx,"https://hub.mph.in.gov/dataset/covid-19-bed-and-vent-usage-by-day/resource/0c00f7b6-05b0-4ebe-8722-ccf33e1a314f#:~:text=Data%20API-,COVID%2D19%20BEDS%20AND%20VENTS%20BY%20DAY,-URL%3A%20https",
+Covid-19,COVID-19 BEDS AND VENTS,ISDH - EMR,"ISDH, FSSA",5.6 KiB,Free,2020-04-20,2023-04-05,CVS,No,14.0,2,"STATUS_TYPE	text		
+TOTAL	numeric",https://hub.mph.in.gov/dataset/5a905d51-eb50-4a83-8f79-005239bd108b/resource/882a7426-886f-48cc-bbe0-a8d14e3012e4/download/covid_report_bedvent.xlsx,"https://hub.mph.in.gov/dataset/covid-19-beds-and-vents/resource/882a7426-886f-48cc-bbe0-a8d14e3012e4#:~:text=Data%20API-,COVID%2D19%20BEDS%20AND%20VENTS,-URL%3A%20https",
+Services For Patients,CLAIMS BY ZIP CODE AND CATEGORY OF SERVICES,State of Indiana,Indiana Management Performance Hub,5.4 MiB,Free,2017-10-12,2019-05-08,CSV,No,4000.0,9,"Zip_Code	numeric		
+Category_of_Services	text		
+Recipient_age_Group	text		
+total_number_of_providers	numeric		
+total_number_of_recipients	numeric		
+total_number_of_claims	numeric		
+total_dollar_amount_of_claims	numeric		
+Year	numeric		
+recipients_average_travelled_distance_miles	numeric",https://hub.mph.in.gov/dataset/7e12e781-f7b2-44b3-8001-231f2baffcb4/resource/46873862-dcf0-420d-9819-949c94f8fa6a/download/claims_by_zip_code_and_category_of_service.csv,https://hub.mph.in.gov/dataset/claims-by-zip-code-and-category-of-services/resource/46873862-dcf0-420d-9819-949c94f8fa6a#:~:text=CLAIMS%20BY%20ZIP%20CODE%20AND%20CATEGORY%20OF%20SERVICES%20DATASET,
+Provider And Category Of Services,CLAIMS BY PROVIDER AND CATEGORY OF SERVICES,State of Indiana,Indiana Management Performance Hub,26.6 MiB,Free,2017-10-12,2019-05-08,CSV,No,64000.0,18,"Provider_ID	text		
+Provider_NPI	numeric		
+provider_name	text		
+provider_address_street_line_1	text		
+Provider_address_street_line_2	text		
+Provider_address_city	text		
+Provider_address_state	text		
+Provider_address_zip_code	numeric		
+provider_geocode_latitude	numeric		
+Provider_geocode_longitude	numeric		
+provider_type	text		
+provider_prime_specialty	text		
+Category_of_services	text		
+total_number_of_recipients	numeric		
+total_number_of_claims	numeric		
+total_dollar_amount_of_claims	numeric		
+recipients_average_travelled_distance_miles	numeric		
+Year	numeric",https://hub.mph.in.gov/dataset/31b7ed1a-00f5-4b50-aaa7-b5d22907d8d1/resource/3d573b4d-54da-4953-b39e-30c6e13cb96f/download/claims_by_provider_and_category_of_services.csv,https://hub.mph.in.gov/dataset/claims-by-provider-and-category-of-services/resource/3d573b4d-54da-4953-b39e-30c6e13cb96f#:~:text=CLAIMS%20BY%20PROVIDER%20AND%20CATEGORY%20OF%20SERVICES%20DATASET,
+Opioid Treatment,OPIOID TREATMENT PROGRAM LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,9.8 KiB,Free,2019-06-04,2019-06-04,CSV,No,13.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/01542614-2fee-4f13-a7fa-e8a173b6c51f/resource/5fb706d0-cd24-4d94-a8ad-677dbc10b591/download/opioid-treatment-program.xlsx,"https://hub.mph.in.gov/dataset/opioid-treatment-program/resource/5fb706d0-cd24-4d94-a8ad-677dbc10b591#:~:text=Download-,OPIOID%20TREATMENT%20PROGRAM%20LOCATIONS,-URL%3A%20https",
+Adult Protective Service Provider,ADULT PROTECTIVE SERVICE PROVIDER LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,11.6 KiB,Free,2019-06-04,2019-06-04,XLSX,No,17.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/50b39cbf-460c-4c4f-b5de-5cc2dd16c4cd/resource/724ff83d-f534-454d-9c97-5979a4aa6e0d/download/adult-protective-services.xlsx,"https://hub.mph.in.gov/dataset/adult-protective-services/resource/724ff83d-f534-454d-9c97-5979a4aa6e0d#:~:text=Download-,ADULT%20PROTECTIVE%20SERVICE%20PROVIDER%20LOCATIONS,-URL%3A%20https",
+Aging Service Provider,AREA AGENCY ON AGING SERVICE PROVIDER LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,11.7 KiB,Free,2019-06-04,2019-06-04,XLSX,No,16.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/4d5f6b97-996d-4258-9cd1-c0fa7eb1221b/resource/419ec553-6f3a-44b5-b544-6ae90fa26804/download/area-agency-on-aging.xlsx,"https://hub.mph.in.gov/dataset/area-agency-on-aging/resource/419ec553-6f3a-44b5-b544-6ae90fa26804#:~:text=Download-,AREA%20AGENCY%20ON%20AGING%20SERVICE%20PROVIDER%20LOCATIONS,-URL%3A%20https",
+Child Care Resource,CHILD CARE RESOURCE AND REFERRAL PROVIDER LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,9.5 KiB,Free,2019-06-04,2019-06-04,XLSX,No,9.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/827879df-90c0-4f5f-b042-9bad15da87c3/resource/6cd52c74-80b6-4402-841b-ee0972f960e0/download/child-care-resource-referral.xlsx,,
+Deaf Service Providers,DEAF AND HARD OF HEARING SERVICE PROVIDER LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,9.4 KiB,Free,2019-06-04,2019-06-04,XLSX,No,8.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/41358a14-e4a9-45da-9a7f-c7a673ddaab8/resource/1cfb8667-8aea-4dbd-8cfa-d93c145065b6/download/deaf-and-hard-of-hearing-services.xlsx,"https://hub.mph.in.gov/dataset/deaf-and-hard-of-hearing-services/resource/1cfb8667-8aea-4dbd-8cfa-d93c145065b6#:~:text=Download-,DEAF%20AND%20HARD%20OF%20HEARING%20SERVICE%20PROVIDER%20LOCATIONS,-URL%3A%20https",
+Mothers With A Substance Use,MOTHERS WITH A SUBSTANCE USE RELATED CLAIM BY RECIPIENT COUNTY,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,1.4 KiB,Free,2019-08-30,2020-10-02,CSV,No,87.0,2,"COUNTY	text		
+RECIPIENTS	numeric",https://hub.mph.in.gov/dataset/e21c8eb9-23fa-43f7-8c32-fcb98ab2d39a/resource/c5ee0772-96f4-4e15-93f2-03bb79aa0bcd/download/mothers-with-a-substance-use-related-claim-by-recipient-county.csv,https://hub.mph.in.gov/dataset/mothers-with-a-substance-use-related-claim-by-recipient-county/resource/c5ee0772-96f4-4e15-93f2-03bb79aa0bcd#:~:text=MOTHERS%20WITH%20A%20SUBSTANCE%20USE%20RELATED%20CLAIM%20BY...,
+Covid-19,COVID-19 COUNTY STATISTICS,"ISDH, FSSA",Indiana State Department of Health,8.8 KiB,Free,2023-03-16,2023-03-16,XLSX,No,92.0,5,"LOCATION_ID	numeric		
+COVID_COUNT	numeric		
+COVID_DEATHS	numeric		
+COVID_TEST	numeric		
+COUNTY_NAME	text",https://hub.mph.in.gov/dataset/89cfa2e3-3319-4d31-a60d-710f76856588/resource/ecb5ef04-7644-4d2e-8046-ade3552bac5f/download/covid_report_county_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-county-statistics/resource/ecb5ef04-7644-4d2e-8046-ade3552bac5f#:~:text=03/15/2023%3A%20HISTORICAL%20COVID%2D19%20COUNTY%20STATISTICS,
+Covid-19,03/15/2023: HISTORICAL COVID-19 COUNTY...,"ISDH, FSSA",Indiana State Department of Health,4.7 KiB,Free,2023-03-16,2023-03-16,XLSX,No,5.0,2,"Field Name	text		
+Field Description	text",https://hub.mph.in.gov/dataset/89cfa2e3-3319-4d31-a60d-710f76856588/resource/e23a6fc1-692d-447c-8862-827c788c1610/download/covid_report_county_dictionary_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-county-statistics/resource/e23a6fc1-692d-447c-8862-827c788c1610#:~:text=03/15/2023%3A%20HISTORICAL%20COVID%2D19%20COUNTY.,
+Covid-19,"COVID-19 REGION-WIDE TEST, CASE, AND DEATH TRENDS","ISDH, FSSA",Indiana State Department of Health,248.7 KiB,Free,2023-03-15,2023-04-12,,No,11000.0,6,"DISTRICT	numeric		
+DATE	timestamp		
+COVID_COUNT	numeric		
+COVID_DEATHS	numeric		
+COVID_COUNT_BY_SPECIMEN_COLLECTION_DATE	numeric",https://hub.mph.in.gov/dataset/181c677e-d1d0-4493-b673-356532fd7b7f/resource/dc190c74-7116-4123-881e-a330188e732b/download/covid_report_county_region_date.xlsx,"https://hub.mph.in.gov/dataset/covid-19-region-wide-test-case-and-death-trends/resource/dc190c74-7116-4123-881e-a330188e732b#:~:text=Data%20API-,COVID%2D19%20REGION%2DWIDE%20TEST%2C%20CASE%2C%20AND%20DEATH%20TRENDS,-URL%3A%20https",
+Covid-19,"COVID-19 REGION-WIDE TEST, CASE, AND DEATH..","ISDH, FSSA",Indiana State Department of Health,6 KiB,Free,2023-03-16,2023-03-16,XLSX,No,17.0,2,"Field Name	text		
+Field Description	text",https://hub.mph.in.gov/dataset/181c677e-d1d0-4493-b673-356532fd7b7f/resource/69e04f91-ddad-4ffd-9d3e-64da91c16e93/download/covid_report_county_date_dictionary.xlsx,https://hub.mph.in.gov/dataset/covid-19-region-wide-test-case-and-death-trends/resource/69e04f91-ddad-4ffd-9d3e-64da91c16e93#:~:text=COVID%2D19%20REGION%2DWIDE%20TEST%2C%20CASE%2C%20AND%20DEATH..,
+Covid-19,03/15/2023: HISTORICAL COVID-19 REGION-WIDE...,"ISDH, FSSA",Indiana State Department of Health,412.7 KiB,Free,2023-03-16,2023-03-16,XLSX,No,11000.0,8,"DISTRICT	numeric		
+DATE	timestamp		
+COVID_COUNT	numeric		
+COVID_DEATHS	numeric		
+COVID_TEST	numeric		
+POSITIVITY_RATE_ALL_TESTS	text		
+COVID_COUNT_BY_SPECIMEN_COLLECTION_DATE	numeric",https://hub.mph.in.gov/dataset/181c677e-d1d0-4493-b673-356532fd7b7f/resource/86c59f2d-7b27-445d-81ff-1a1a740d68d3/download/covid_report_county_region_date_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-region-wide-test-case-and-death-trends/resource/86c59f2d-7b27-445d-81ff-1a1a740d68d3#:~:text=03/15/2023%3A%20HISTORICAL%20COVID%2D19%20REGION%2DWIDE...,
+Covid-19,03/15/2023: HISTORICAL COVID-19 REGION-WIDE...,"ISDH, FSSA",Indiana State Department of Health,9.5 KiB,Free,2023-03-16,2023-03-16,XLSX,No,7.0,2,"Field Name	text		
+Field Description	text",https://hub.mph.in.gov/dataset/181c677e-d1d0-4493-b673-356532fd7b7f/resource/2d88a60f-8af9-4bf9-a235-ed8506c28c46/download/covid_report_district_date_dictionary_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-region-wide-test-case-and-death-trends/resource/2d88a60f-8af9-4bf9-a235-ed8506c28c46#:~:text=03/15/2023%3A%20HISTORICAL%20COVID%2D19%20REGION%2DWIDE...,
+Emergency Medical Service Runs,EMS INCIDENTS 2014,ImageTrend,Indiana Department of Homeland Security,106.4 MiB,Free,2018-04-16,2022-11-03,CSV,No,423000.0,22,"INCIDENT_DT	timestamp		
+INCIDENT_COUNTY	text		
+CHIEF_COMPLAINT_DISPATCH	text		
+CHIEF_COMPLAINT_ANATOMIC_LOC	text		
+PRIMARY_SYMPTOM	text		
+PROVIDER_IMPRESSION_PRIMARY	text		
+DISPOSITION_ED	text		
+DISPOSITION_HOSPITAL	text		
+INJURY_FLG	text		
+NALOXONE_GIVEN_FLG	numeric		
+MEDICATION_GIVEN_OTHER_FLG	numeric		
+DESTINATION_TYPE	text		
+PROVIDER_TYPE_STRUCTURE	text		
+PROVIDER_TYPE_SERVICE	text		
+PROVIDER_TYPE_SERVICE_LEVEL	text		
+PROVIDER_TO_SCENE_MINS	numeric		
+PROVIDER_TO_DESTINATION_MINS	text		
+UNIT_NOTIFIED_BY_DISPATCH_DT	timestamp		
+UNIT_ARRIVED_ON_SCENE_DT	timestamp		
+UNIT_ARRIVED_TO_PATIENT_DT	text		
+UNIT_LEFT_SCENE_DT	text		
+PATIENT_ARRIVED_DESTINATION_DT",https://hub.mph.in.gov/dataset/8404e4ae-c244-48c1-95ee-c2eff5e177e6/resource/c2f4e929-3cf0-4055-8af5-0ff05bee1c8a/download/ems_runs_2014.csvv,"https://hub.mph.in.gov/dataset/emergency-medical-service-runs/resource/c2f4e929-3cf0-4055-8af5-0ff05bee1c8a#:~:text=Data%20API-,EMS%20INCIDENTS%202014,-URL%3A%20https",
+Emergency Medical Service Runs,EMS INCIDENTS 2015,ImageTrend,Indiana Department of Homeland Security,134.7 MiB,Free,2018-04-16,2022-11-03,CSV,No,520000.0,2,"INCIDENT_DT	timestamp		
+INCIDENT_COUNTY	text",https://hub.mph.in.gov/dataset/8404e4ae-c244-48c1-95ee-c2eff5e177e6/resource/72b1d92d-7322-4d07-8628-7a630af0f35d/download/ems_runs_2015.csv,"https://hub.mph.in.gov/dataset/emergency-medical-service-runs/resource/72b1d92d-7322-4d07-8628-7a630af0f35d#:~:text=Data%20API-,EMS%20INCIDENTS%202015,-URL%3A%20https",
+Emergency Medical Service Runs,EMS INCIDENTS 2016,ImageTrend,Indiana Department of Homeland Security,163.4 MiB,Free,2018-04-16,2022-11-03,CSV,No,645000.0,2,"INCIDENT_DT	timestamp		
+INCIDENT_COUNTY	text",https://hub.mph.in.gov/dataset/8404e4ae-c244-48c1-95ee-c2eff5e177e6/resource/0c662d5b-686a-4fcb-be58-69f7e8c5652b/download/ems_runs_2016.csv,"https://hub.mph.in.gov/dataset/emergency-medical-service-runs/resource/0c662d5b-686a-4fcb-be58-69f7e8c5652b#:~:text=Data%20API-,EMS%20INCIDENTS%202016,-URL%3A%20https",
+Emergency Medical Service Runs,EMS INCIDENTS 2017,ImageTrend,Indiana Department of Homeland Security,154.3 MiB,Free,2018-04-16,2022-11-03,CSV,No,595000.0,3,"INCIDENT_DT        timestamp                
+INCIDENT_COUNTY        text                
+CHIEF_COMPLAINT_DISPATCH        text",https://hub.mph.in.gov/dataset/8404e4ae-c244-48c1-95ee-c2eff5e177e6/resource/546810e3-8dea-4945-9de7-606bed1ff3ea/download/ems_runs_2017.csv,"https://hub.mph.in.gov/dataset/emergency-medical-service-runs/resource/546810e3-8dea-4945-9de7-606bed1ff3ea#:~:text=Data%20API-,EMS%20INCIDENTS%202017,-URL%3A%20https",
+Emergency Medical Service Runs,EMS INCIDENTS 2018,ImageTrend,Indiana Department of Homeland Security,254.8 MiB,Free,2019-01-22,2022-11-03,CSV,No,852000.0,3,"INCIDENT_DT        timestamp                
+INCIDENT_COUNTY        text                
+CHIEF_COMPLAINT_DISPATCH        text",https://hub.mph.in.gov/dataset/8404e4ae-c244-48c1-95ee-c2eff5e177e6/resource/ae8b04fb-4b9a-4b5c-879e-f5d21013671d/download/ems_runs_2018.csv,"https://hub.mph.in.gov/dataset/emergency-medical-service-runs/resource/ae8b04fb-4b9a-4b5c-879e-f5d21013671d#:~:text=Data%20API-,EMS%20INCIDENTS%202018,-URL%3A%20https",
+Emergency Medical Service Runs,EMS INCIDENTS 2019,ImageTrend,Indiana Department of Homeland Security,282.1 MiB,Free,2019-01-22,2022-11-03,CSV,No,906000.0,3,"INCIDENT_DT        timestamp                
+INCIDENT_COUNTY        text                
+CHIEF_COMPLAINT_DISPATCH        text",https://hub.mph.in.gov/dataset/8404e4ae-c244-48c1-95ee-c2eff5e177e6/resource/35fe1ee8-0e92-49b7-b1fb-25da7141a2ca/download/ems_runs_2019.csv,"https://hub.mph.in.gov/dataset/emergency-medical-service-runs/resource/35fe1ee8-0e92-49b7-b1fb-25da7141a2ca#:~:text=Data%20API-,EMS%20INCIDENTS%202019,-URL%3A%20https",
+Emergency Medical Service Runs,EMS INCIDENTS 2020,ImageTrend,Indiana Department of Homeland Security,328.2 MiB,Free,2022-11-03,2022-11-03,CSV,No,1079000.0,3,"INCIDENT_DT        timestamp                
+INCIDENT_COUNTY        text                
+CHIEF_COMPLAINT_DISPATCH        text",https://hub.mph.in.gov/dataset/8404e4ae-c244-48c1-95ee-c2eff5e177e6/resource/96d44253-1344-45bb-9f13-c391935d653e/download/ems_runs_2020.csv,"https://hub.mph.in.gov/dataset/emergency-medical-service-runs/resource/96d44253-1344-45bb-9f13-c391935d653e#:~:text=Data%20API-,EMS%20INCIDENTS%202020,-URL%3A%20https",
+Ems Incidents 2020,EMS INCIDENTS 2021,ImageTrend,Indiana Department of Homeland Security,371.3 MiB,Free,2022-11-03,2022-11-03,CSV,No,1243000.0,3,INCIDENT_DT timestamp INCIDENT_COUNTY text CHIEF_COMPLAINT_DISPATCH text,https://hub.mph.in.gov/dataset/8404e4ae-c244-48c1-95ee-c2eff5e177e6/resource/f611725b-d29a-4fd5-80c2-1e5138bfbe06/download/ems_runs_2021.csv,"https://hub.mph.in.gov/dataset/emergency-medical-service-runs/resource/f611725b-d29a-4fd5-80c2-1e5138bfbe06#:~:text=Data%20API-,EMS%20INCIDENTS%202021,-URL%3A%20https",
+Locations Of Supplemental Nutrition Assistance Program,SNAP PROVIDER LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,16.7 KiB,Free,2019-06-04,2019-06-04,CSV,No,104.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/e809733f-fe47-45d1-92d6-ebe5904c6468/resource/2e39260a-5676-4f0e-bdc6-28b97a0a3a4b/download/snap.xlsxx,"https://hub.mph.in.gov/dataset/snap/resource/2e39260a-5676-4f0e-bdc6-28b97a0a3a4b#:~:text=Download-,SNAP%20PROVIDER%20LOCATIONS,-URL%3A%20https",
+Locations Of Bureau Of Developmental Disabilities Services,BUREAU OF DEVELOPMENTAL DISABILITIES SERVICE PROVIDER LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,10.8 KiB,Free,2019-06-04,2019-06-04,XLSX,No,7.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/9aa2ea73-17fd-4e88-ad37-6d75d54b098d/resource/50515d5b-60c1-468c-9b0a-1649741714c7/download/bureau-of-developmental-disabilities-services.xlsx,https://hub.mph.in.gov/dataset/bureau-of-developmental-disabilities-services/resource/50515d5b-60c1-468c-9b0a-1649741714c7#:~:text=BUREAU%20OF%20DEVELOPMENTAL%20DISABILITIES%20SERVICE...,
+Locations Of Child Care & Development Fund (Ccdf) Services,CHILD CARE & DEVELOPMENT FUND PROVIDER LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,11 KiB,Free,2019-06-04,2019-06-04,XLSX,No,10.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,https://hub.mph.in.gov/dataset/88f8bcd2-de60-4045-91b3-6b5c8950e04f/resource/28befc92-e993-46cf-ab67-3267027f7b3e/download/child-care-development-fund.xlsx,"https://hub.mph.in.gov/dataset/child-care-development-fund/resource/28befc92-e993-46cf-ab67-3267027f7b3e#:~:text=Download-,CHILD%20CARE%20%26%20DEVELOPMENT%20FUND%20PROVIDER%20LOCATIONS,-URL%3A%20https",
+Covid-19,"COVID-19 STATEWIDE TEST, CASE, AND DEATH TRENDS","ISDH, FSSA",Indiana State Department of Health,64.5 KiB,Free,2023-03-15,2023-04-12,XLSX,No,1000.0,10,"DATE	timestamp		
+COVID_DEATHS	numeric		
+DAILY_DELTA_DEATHS	text		
+DAILY_BASE_DEATHS	text		
+COVID_COUNT	numeric		
+DAILY_DELTA_CASES	text		
+DAILY_BASE_CASES	text		
+COVID_COUNT_CUMSUM	numeric		
+COVID_DEATHS_CUMSUM	numeric		
+COVID_COUNT_BY_SPECIMEN_COLLECTION_DATE	numeric",https://hub.mph.in.gov/dataset/ab9d97ab-84e3-4c19-97f8-af045ee51882/resource/74dc7c6d-5a3e-44fc-af4e-177b06a5f906/download/covid_report_date.xlsxx,"https://hub.mph.in.gov/dataset/covid-19-case-trend/resource/74dc7c6d-5a3e-44fc-af4e-177b06a5f906#:~:text=Data%20API-,COVID%2D19%20STATEWIDE%20TEST%2C%20CASE%2C%20AND%20DEATH%20TRENDS,-URL%3A%20https",
+Covid-19,"COVID-19 STATEWIDE TEST, CASE, AND DEATH...","ISDH, FSSA",Indiana State Department of Health,6.1 KiB,Free,2023-03-16,2023-03-16,XLSX,No,15.0,2,"Field Name	text		
+Field Description	text",https://hub.mph.in.gov/dataset/ab9d97ab-84e3-4c19-97f8-af045ee51882/resource/c6ce5e3e-ff94-42a8-bc56-e0459670e7b7/download/covid_report_date_dictionary.xlsx,https://hub.mph.in.gov/dataset/covid-19-case-trend/resource/c6ce5e3e-ff94-42a8-bc56-e0459670e7b7#:~:text=COVID%2D19%20STATEWIDE%20TEST%2C%20CASE%2C%20AND%20DEATH...,
+Covid-19,03/15/2023: HISTORICAL COVID-19 STATEWIDE...,"ISDH, FSSA",Indiana State Department of Health,97.3 KiB,Free,2023-03-16,2023-03-16,XLSX,No,1000.0,15,"DATE	timestamp		
+COVID_TEST	numeric		
+DAILY_DELTA_TESTS	text		
+DAILY_BASE_TESTS	text		
+COVID_DEATHS	numeric		
+DAILY_DELTA_DEATHS	text		
+DAILY_BASE_DEATHS	text		
+COVID_COUNT	numeric		
+DAILY_DELTA_CASES	text		
+DAILY_BASE_CASES	text		
+COVID_COUNT_CUMSUM	numeric		
+COVID_DEATHS_CUMSUM	numeric		
+COVID_TEST_CUMSUM	numeric		
+POSITIVITY_RATE_ALL_TESTS	text		
+COVID_COUNT_BY_SPECIMEN_COLLECTION_DATE	numeric",,https://hub.mph.in.gov/dataset/ab9d97ab-84e3-4c19-97f8-af045ee51882/resource/eb09ca81-6d07-476d-8b84-20ba87818a9b/download/covid_report_date_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-case-trend/resource/eb09ca81-6d07-476d-8b84-20ba87818a9b#:~:text=03/15/2023%3A%20HISTORICAL%20COVID%2D19%20STATEWIDE...
+Covid-19,"COVID-19 COUNTY-WIDE TEST, CASE, AND DEATH TRENDS",ISDH - FSSA,Indiana State Department of Health,2.9 MiB,Free,2023-03-15,2023-04-12,XLSX,No,105000.0,9,"LOCATION_ID	numeric		
+DATE	timestamp		
+COVID_COUNT	numeric		
+COVID_COUNT_MOVING_AVG	numeric		
+COVID_DEATHS	numeric		
+COVID_DEATHS_MOVING_AVG	numeric		
+COVID_COUNT_BY_SPECIMEN_COLLECTION_DATE	numeric		
+COUNTY_NAME	text",,https://hub.mph.in.gov/dataset/bd08cdd3-9ab1-4d70-b933-41f9ef7b809d/resource/6c767453-a363-40d9-b2d2-2acdb2ffd880/download/covid_report_county_date.xlsx,"https://hub.mph.in.gov/dataset/covid-19-county-wide-test-case-and-death-trends/resource/6c767453-a363-40d9-b2d2-2acdb2ffd880#:~:text=Data%20API-,COVID%2D19%20COUNTY%2DWIDE%20TEST%2C%20CASE%2C%20AND%20DEATH%20TRENDS,-URL%3A%20https"
+Covid-19,"COVID-19 COUNTY-WIDE TEST, CASE, AND DEATH TRENDS",ISDH - FSSA,Indiana State Department of Health,6 KiB,Free,2023-03-16,2023-03-16,XLSX,No,17.0,2,"Field Name	text		
+Field Description	text",,https://hub.mph.in.gov/dataset/bd08cdd3-9ab1-4d70-b933-41f9ef7b809d/resource/bbd67614-d4b2-4fe7-91fd-571c8167ac41/download/covid_report_county_date_dictionary.xlsx,https://hub.mph.in.gov/dataset/covid-19-county-wide-test-case-and-death-trends/resource/bbd67614-d4b2-4fe7-91fd-571c8167ac41#:~:text=COVID%2D19%20COUNTY%2DWIDE%20TEST%2C%20CASE%2C%20AND%20DEATH...
+Covid-19,"COVID-19 COUNTY-WIDE TEST, CASE, AND DEATH TRENDS",ISDH - FSSA,Indiana State Department of Health,6 KiB,Free,2023-03-16,2023-03-16,XLSX,No,102000.0,15,"LOCATION_ID	numeric		
+DATE	timestamp		
+COVID_COUNT	numeric		
+COVID_COUNT_MOVING_AVG	numeric		
+COVID_DEATHS	numeric		
+COVID_DEATHS_MOVING_AVG	numeric		
+COVID_TESTS_MOVING_AVG	numeric		
+POSITIVE_TEST_RATE_MOVING_AVG	numeric		
+COVID_TESTS_ADMINISTRATED	numeric		
+COVID_TESTS_ADMINISTRATED_MOVING_AVG	numeric		
+ALL_TESTS_POSITIVE_TEST_RATE	text		
+COVID_POSITIVE_TESTS_ADMIN	numeric		
+ALL_TESTS_POSITIVE_TEST_RATE_MOVING_AVG	text		
+COVID_COUNT_BY_SPECIMEN_COLLECTION_DATE	numeric		
+COUNTY_NAME	text",,https://hub.mph.in.gov/dataset/bd08cdd3-9ab1-4d70-b933-41f9ef7b809d/resource/0aeef7b1-8f3f-4f54-8145-93f98699917c/download/covid_report_county_date_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-county-wide-test-case-and-death-trends/resource/0aeef7b1-8f3f-4f54-8145-93f98699917c#:~:text=03/15/2023%3A%20HISTORICAL%20COVID%2D19%20COUNTY%2DWIDE...
+Covid-19,"COVID-19 COUNTY-WIDE TEST, CASE, AND DEATH TRENDS",ISDH - FSSA,Indiana State Department of Health,51.9 KiB,Free,2023-03-16,2023-03-16,XLSX,No,15.0,2,"Field Name	text		
+Field Description	text",,https://hub.mph.in.gov/dataset/bd08cdd3-9ab1-4d70-b933-41f9ef7b809d/resource/7120d9d7-afe8-40a1-b393-78bdd53a8c03/download/covid_report_county_date_dictionary_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-county-wide-test-case-and-death-trends/resource/7120d9d7-afe8-40a1-b393-78bdd53a8c03#:~:text=03/15/2023%3A%20HISTORICAL%20COVID%2D19%20COUNTY%2DWIDE...
+Covid-19,"COVID-19 COUNTY-WIDE TEST, CASE, AND DEATH TRENDS",ISDH - FSSA,Indiana State Department of Health,5.7 MiB,Free,2022-03-10,2022-03-10,XLSX,No,67000.0,17,"LOCATION_ID	numeric		
+DATE	timestamp		
+COVID_COUNT	numeric		
+COVID_COUNT_MOVING_AVG	numeric		
+COVID_DEATHS	numeric		
+COVID_DEATHS_MOVING_AVG	numeric		
+COVID_TESTS	numeric		
+COVID_TESTS_MOVING_AVG	numeric		
+POSITIVE_TEST_RATE	numeric		
+POSITIVE_TEST_RATE_MOVING_AVG	numeric		
+COVID_TESTS_ADMINISTRATED	numeric		
+COVID_TESTS_ADMINISTRATED_MOVING_AVG	numeric		
+ALL_TESTS_POSITIVE_TEST_RATE	numeric		
+COVID_POSITIVE_TESTS_ADMIN	numeric		
+ALL_TESTS_POSITIVE_TEST_RATE_MOVING_AVG	numeric		
+COVID_COUNT_BY_SPECIMEN_COLLECTION_DATE	numeric		
+COUNTY_NAME	text",,https://hub.mph.in.gov/dataset/bd08cdd3-9ab1-4d70-b933-41f9ef7b809d/resource/d05addfd-1182-4361-8581-e6f53d645c5c/download/covid_report_county_date_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-county-wide-test-case-and-death-trends/resource/d05addfd-1182-4361-8581-e6f53d645c5c#:~:text=HISTORICAL%20%2D%20COVID%2D19%20COUNTY%2DWIDE%20TEST%2C%20CASE%2C...
+Service Locations,LONG-TERM CARE OMBUDSMAN SERVICE LOCATIONS,Indiana Family and Social Services Administration,Indiana Family and Social Services Administration,10.2 KiB,Free,2019-06-04,2019-06-04,XLSX,No,17.0,8,services-provider name- address- city- state- zipcode- longitude- latitude,,https://hub.mph.in.gov/dataset/b0dad166-afd7-499b-bc30-d3cdca538108/resource/5fc492b7-63d7-406b-85b2-f7afb8977bb3/download/long-term-care-ombudsman.xlsx,"https://hub.mph.in.gov/dataset/long-term-care-ombudsman/resource/5fc492b7-63d7-406b-85b2-f7afb8977bb3#:~:text=Download-,LONG%2DTERM%20CARE%20OMBUDSMAN%20SERVICE%20LOCATIONS,-URL%3A%20https"
+Child Services Data,EQUITY PORTAL - CHILD SERVICES DATA,Indiana Department of Child Services,Indiana Department of Child Services,1.3 KiB,Free,2021-06-29,2022-02-14,CSV,No,24.0,7,"Race	text		
+Year	numeric		
+Children Entering Care	numeric		
+Children In Care	numeric		
+Census From Previous Year	numeric		
+(Children Entering Care/Census From Previous Year) * 1000	numeric		
+(Children In Care/Census From Previous Year) * 1000	numeric",,https://hub.mph.in.gov/dataset/dfb55c66-9205-4f20-b41b-26697481c666/resource/c787cb8d-10ba-46c3-b652-542062239f6d/download/equity-portal-child-services-dataset.csv,https://hub.mph.in.gov/dataset/equity-portal-child-services-data/resource/c787cb8d-10ba-46c3-b652-542062239f6d#:~:text=EQUITY%20PORTAL%20%2D%20CHILD%20SERVICES%20DATASET
+Transportation Provider,TRANSPORTATION CLAIMS BY PROVIDER,State of Indiana,Indiana Management Performance Hub,505 KiB,Free,2017-10-12,,CSV,No,3000.0,12,"Provider_Name	text		
+Provider_Addr_Street1	text		
+Provider_Addr_Street2	text		
+Provider_Addr_City	text		
+Provider_Addr_State	text		
+Provider_Addr_Zip5	numeric		
+Provider_Geocode_Latitude	numeric		
+Provider_Geocode_Longitude	numeric		
+Total_Number_of_Recipients	numeric		
+Total_Number_of_Claims	numeric		
+total_dollar_amount_of_claims	numeric		
+Year	numeric",,https://hub.mph.in.gov/dataset/1aca60e0-a2d2-4578-b033-68f66482e2ac/resource/46b74673-e572-4ce5-b249-dce0f1b7a607/download/transportation_claims_by_provider.csv,https://hub.mph.in.gov/dataset/transportation-claims-by-provider/resource/46b74673-e572-4ce5-b249-dce0f1b7a607#:~:text=TRANSPORTATION%20CLAIMS%20BY%20PROVIDER%20DATASET
+Medicaid Claims,MEDICAID CLAIMS BY RECIPIENT RACE AND GENDER,State of Indiana,Indiana Management Performance Hub,7 KiB,Free,2017-10-12,2019-05-08,CSV,No,117.0,6,"Race	text		
+Gender	text		
+Total_Number_of_Recipients	numeric		
+Total_Number_of_Claims	numeric		
+total_dollar_amount_of_claims	numeric		
+Year	numeric",,https://hub.mph.in.gov/dataset/8936401b-a283-4005-957a-a8e8141a76d9/resource/50409bf6-06ed-40d6-98cc-c3a9e9df9033/download/medicaid_claims_by_recipient_race_and_gender.csv,https://hub.mph.in.gov/dataset/medicaid-claims-by-recipient-race-and-gende/resource/50409bf6-06ed-40d6-98cc-c3a9e9df9033#:~:text=MEDICAID%20CLAIMS%20BY%20RECIPIENT%20RACE%20AND%20GENDER%20DATASET
+Patient Population,PATIENT POPULATION BY PROVIDER SPECIALTY,State of Indiana,Indiana Management Performance Hub,1.9 MiB,Free,2017-10-12,2019-05-08,CSV,No,13000.0,6,"Diagnosis_description	text		
+Service_provider_specialty	text		
+Total_number_of_recipients	numeric		
+Total_number_of_claims	numeric		
+Total_dollar_amount_of_claims	numeric		
+Year	numeric",,https://hub.mph.in.gov/dataset/ca510f27-393c-4e34-98b6-acec126feaea/resource/a889dc82-d7c5-4d02-99ef-7b0fc982d117/download/patient_population_by_provider_specialty.csv,https://hub.mph.in.gov/dataset/patient-population-by-provider-specialty/resource/a889dc82-d7c5-4d02-99ef-7b0fc982d117#:~:text=PATIENT%20POPULATION%20BY%20PROVIDER%20SPECIALTY%20DATASET
+Patient Population,PATIENT POPULATION BY PROVIDER TYPE,State of Indiana,Indiana Management Performance Hub,479.4 KiB,Free,2017-10-12,2019-05-08,CSV,No,5000.0,6,"Diagnosis_Description	text		
+Service_provider_type	text		
+Total_number_of_recipients	numeric		
+Total_number_of_claims	numeric		
+Total_dollar_amount_of_claims	numeric		
+Year	numeric",,https://hub.mph.in.gov/dataset/cb9ea7f9-9023-4037-9c6f-71f853c13922/resource/ecd1f911-19af-4938-90e2-7b993269dd38/download/patient_population_by_provider_type.csv,https://hub.mph.in.gov/dataset/patient-population-by-provider-type/resource/ecd1f911-19af-4938-90e2-7b993269dd38#:~:text=PATIENT%20POPULATION%20BY%20PROVIDER%20TYPE%20DATASET
+Transportation Service,TRANSPORTATION RELATED CLAIMS BY CATEGORY OF SERVICE,State of Indiana,Indiana Management Performance Hub,2.4 KiB,Free,2017-10-12,2019-05-08,CSV,No,36.0,6,"Category_of_Service	text		
+Total_Number_of_Recipients	numeric		
+Total_Number_of_Claims	numeric		
+total_dollar_amount_of_claims	numeric		
+Total_Number_of_Transportation_Providers	numeric		
+Year	numeric",,https://hub.mph.in.gov/dataset/70a574ce-b519-4903-bf6f-eac03eea9cff/resource/81a79d39-7c40-46e1-bb46-117f2c22a29a/download/transportation_related_claims_by_category_of_service.csv,https://hub.mph.in.gov/dataset/transportation-related-claims-by-category-of-service/resource/81a79d39-7c40-46e1-bb46-117f2c22a29a#:~:text=TRANSPORTATION%20RELATED%20CLAIMS%20BY%20CATEGORY%20OF...
+Transportation-Related Claims.,TRANSPORTATION RELATED CLAIMS BY RECIPIENT ZIP CODE,State of Indiana,Indiana Management Performance Hub,90.6 KiB,Free,2017-10-12,2019-05-08,CSV,No,3000.0,6,"Zipcode	numeric		
+Total_Number_of_Recipients	numeric		
+Total_Number_of_Claims	numeric		
+total_dollar_amount_of_claims	numeric		
+Total_Number_of_Transportation_Providers	numeric		
+Year	numeric",,https://hub.mph.in.gov/dataset/7be7ca27-c926-4771-8787-3a4158d41d80/resource/3b7f1dd5-8b31-47b5-ade4-829bc2f7c691/download/transportation_related_claims_by_recipient_zip_code.csv,https://hub.mph.in.gov/dataset/transportation-related-claims-by-recipient-zip-code/resource/3b7f1dd5-8b31-47b5-ade4-829bc2f7c691#:~:text=TRANSPORTATION%20RELATED%20CLAIMS%20BY%20RECIPIENT%20ZIP...
+Transportation-Related Claims.,"TRANSPORTATION RELATED CLAIMS BY RECIPIENT RACE, GENDER, AND AGE",State of Indiana,Indiana Management Performance Hub,9.5 KiB,Free,2017-10-12,2019-05-08,CSV,No,159.0,7,"Race	text		
+Gender	text		
+Age_Group	text		
+Total_Number_of_Recipients	numeric		
+Total_Number_of_Claims	numeric		
+total_dollar_amount_of_claims	numeric		
+Year	numeric",,https://hub.mph.in.gov/dataset/5edef304-db96-4af4-9a7c-6085a7389da7/resource/a5d95454-ef2d-40d2-a8a2-18fbc1449ed1/download/transportation_related_claims_by_recipient_race_gender_and_age.csv,https://hub.mph.in.gov/dataset/transportation-related-claims-by-recipient-race-gender-and-age/resource/a5d95454-ef2d-40d2-a8a2-18fbc1449ed1#:~:text=TRANSPORTATION%20RELATED%20CLAIMS%20BY%20RECIPIENT...
+Diagnostic Claims,MOST COSTLY DIAGNOSTIC CLAIMS,State of Indiana,Indiana Management Performance Hub,104 KiB,Free,2017-10-12,2019-05-08,CSV,No,600.0,8,"Diagnosis_code	text		
+Diagnosis_lay	text		
+diagnosis_description	text		
+ICD_Code	text		
+total_number_of_claims	numeric		
+total_dollar_amount_of_claims	numeric		
+Year	numeric		
+Diag_rank	numeric",,https://hub.mph.in.gov/dataset/d3383ef9-27c9-43aa-abf4-56c73da11d8c/resource/b3bbb670-918a-4840-a6ad-b885c5b183ce/download/most_costly_diagnostic_claims.csv,https://hub.mph.in.gov/dataset/hundred-most-costly-diagnostic-claims/resource/b3bbb670-918a-4840-a6ad-b885c5b183ce#:~:text=MOST%20COSTLY%20DIAGNOSTIC%20CLAIMS%20DATASET
+Claims By Provider,HIGH COST CLAIMS BY PROVIDER,State of Indiana,Indiana Management Performance Hub,20.1 MiB,Free,2017-10-12,2019-05-08,CSV,No,43000.0,17,"PROVIDER_ID	text		
+PROVIDER_NPI	text		
+PROVIDER_NAME	text		
+provider_address_street_line_1	text		
+provider_address_street_line_2	text		
+PROVIDER_ADDRESS_CITY	text		
+PROVIDER_ADDRESS_STATE	text		
+PROVIDER_ADDRESS_ZIP_CODE	text		
+PROVIDER_GEOCODE_LATITUDE	text		
+PROVIDER_GEOCODE_LONGITUDE	text		
+PROVIDER_TYPE	text		
+PROVIDER_PRIME_SPECIALTY	text		
+DOMINANT_DIAGNOSIS	text		
+TOTAL_NUMBER_OF_RECIPIENTS	numeric		
+TOTAL_NUMBER_OF_CLAIMS	numeric		
+total_dollar_amount_of_claims	numeric		
+Year	numeric",,https://hub.mph.in.gov/dataset/145cf914-f5b6-492f-bed6-14f174c0ec05/resource/24c8b689-227f-4da5-a886-7f12a2873bfa/download/high_cost_claims_by_provider.csv,https://hub.mph.in.gov/dataset/high-cost-claims-by-provider/resource/24c8b689-227f-4da5-a886-7f12a2873bfa#:~:text=HIGH%20COST%20CLAIMS%20BY%20PROVIDER%20DATASET
+Medicaid Claims,MEDICAID CLAIMS BY SUBPROGRAM FUNDING SOURCE,State of Indiana,Indiana Management Performance Hub,2.7 KiB,Free,2017-10-12,2019-05-08,CSV,No,43.0,5,"Funding_source_subprogram_code	text		
+Total_Number_of_Recipients	numeric		
+Total_Number_of_Claims	numeric		
+Total_dollar_amount_of_claims	numeric		
+Year	numeric",,https://hub.mph.in.gov/dataset/1da5405e-efcd-4850-bd04-023c201c24fa/resource/c1cee83e-7d4a-46c6-bf33-905564f37a57/download/medicaid_claims_by_subprogram_funding_source.csv,https://hub.mph.in.gov/dataset/medicaid-claims-by-subprogram-funding-source/resource/c1cee83e-7d4a-46c6-bf33-905564f37a57#:~:text=MEDICAID%20CLAIMS%20BY%20SUBPROGRAM%20FUNDING%20SOURCE%20DATASET
+Medicaid Claims,MEDICAID CLAIMS BY SUBPROGRAM FUNDING SOURCE,State of Indiana,Indiana Management Performance Hub,2.7 KiB,Free,2017-10-12,2019-05-08,CSV,No,43.0,5,"Funding_source_subprogram_code	text		
+Total_Number_of_Recipients	numeric		
+Total_Number_of_Claims	numeric		
+Total_dollar_amount_of_claims	numeric		
+Year	numeric",,https://hub.mph.in.gov/dataset/1da5405e-efcd-4850-bd04-023c201c24fa/resource/c1cee83e-7d4a-46c6-bf33-905564f37a57/download/medicaid_claims_by_subprogram_funding_source.csv,https://hub.mph.in.gov/dataset/1da5405e-efcd-4850-bd04-023c201c24fa/resource/c1cee83e-7d4a-46c6-bf33-905564f37a57/download/medicaid_claims_by_subprogram_funding_source.csv
+High Cost Claims,HIGH COST CLAIMS BY ZIP CODE,State of Indiana,Indiana Management Performance Hub,581.8 KiB,Free,2017-10-12,2019-05-08,CSV,No,4000.0,7,"ZIP_CODE	numeric		
+DOMINANT_DIAGNOSIS	text		
+TOTAL_NUMBER_OF_PROVIDERS	numeric		
+TOTAL_NUMBER_OF_RECIPIENTS	numeric		
+TOTAL_NUMBER_OF_CLAIMS	numeric		
+total_dollar_amount_of_claims	numeric		
+Year	numeric",,https://hub.mph.in.gov/dataset/59d23682-b6ae-430c-9760-dcf9bafd9856/resource/ca702d58-a753-4467-919e-6f8959a378e2/download/high_cost_claims_by_zip_code.csv,https://hub.mph.in.gov/dataset/high-cost-claims-by-zip-code/resource/ca702d58-a753-4467-919e-6f8959a378e2#:~:text=HIGH%20COST%20CLAIMS%20BY%20ZIP%20CODE%20DATASET
+Diabetes Patients,CLAIMS SERVICING DIABETES PATIENTS BY RECIPIENT LOCATION,State of Indiana,Indiana Management Performance Hub,138.3 KiB,Free,2017-10-12,2019-05-08,CSV,No,3000.0,6,"Zip_Code	numeric		
+total_number_of_recipients	numeric		
+total_number_of_claims	numeric		
+total_dollar_amount_of_claims	numeric		
+total_number_of_providers	numeric		
+Year	numeric",,https://hub.mph.in.gov/dataset/b787840c-5d43-497c-9615-17b9693a1dd2/resource/108824d6-555d-4d94-b824-ac3d8edc2687/download/claims_servicing_diabetes_patients_by_recipient_location.csv,https://hub.mph.in.gov/dataset/claims-servicing-diabetes-patients-by-recipient-location/resource/108824d6-555d-4d94-b824-ac3d8edc2687#:~:text=CLAIMS%20SERVICING%20DIABETES%20PATIENTS%20BY...
+Diabetes Patients,CLAIMS SERVICING DIABETES PATIENTS BY RECIPIENT RACE AND GENDER,State of Indiana,Indiana Management Performance Hub,4.8 KiB,Free,2017-10-12,2019-05-08,CSV,No,70.0,6,"YEAR	numeric		
+RACE	text		
+GENDER	text		
+TOTAL NUMBER OF RECIPIENTS	numeric		
+TOTAL NUMBER OF CLAIMS	numeric		
+TOTAL DOLLAR AMOUNT OF CLAIMS	numeric",,https://hub.mph.in.gov/dataset/5f562eed-c2b1-46c7-8561-8785eeda19ff/resource/1958924c-2dba-4b5f-aeea-73373bf09058/download/claims_servicing_diabetes_patients_by_recipient_race_and_gender.csv,https://hub.mph.in.gov/dataset/claims-servicing-diabetes-patients-by-recipient-race-and-gender/resource/1958924c-2dba-4b5f-aeea-73373bf09058#:~:text=CLAIMS%20SERVICING%20DIABETES%20PATIENTS%20BY...
+Diabetes Patients,CLAIMS SERVICING DIABETES PATIENTS BY PROVIDER,State of Indiana,Indiana Management Performance Hub,13.5 MiB,Free,2017-10-12,2019-05-08,CSV,No,42000.0,15,"provider_npi	numeric		
+Provider_id	text		
+provider_name	text		
+provider_address_street_line_1	text		
+provider_address_street_line_2	text		
+Provider_address_city	text		
+provider_address_state	text		
+provider_address_zip_code	numeric		
+provider_geocode_latitude	numeric		
+provider_geocode_longitude	numeric		
+Service_provider_specialties	text		
+total_number_of_recipients	numeric		
+total_number_of_claims	numeric		
+total_dollar_amount_of_claims	numeric		
+Year	numeric",,https://hub.mph.in.gov/dataset/cb597222-70ae-467a-be65-e16894b2b6ce/resource/c67aa733-7cbd-4d90-90ef-b6b867b93156/download/claims_servicing_diabetes_patients_by_provider.csv,https://hub.mph.in.gov/dataset/claims-servicing-diabetes-patients-by-provider/resource/c67aa733-7cbd-4d90-90ef-b6b867b93156#:~:text=CLAIMS%20SERVICING%20DIABETES%20PATIENTS%20BY%20PROVIDER%20DATASET
+Emergency Visit,EMERGENCY VISIT CLAIMS BY PROVIDER AND RECIPIENT AGE GROUP,State of Indiana,Indiana Management Performance Hub,114.4 KiB,Free,2017-10-14,2019-05-06,CSV,No,1.0,10,organization-Dataset ID- Title-Description- group- Topic- Program- Tags- Department- Modified,,https://hub.mph.in.gov/dataset/8b5809b1-0cce-40b6-9192-aececec4a5a5/resource/3d894ee0-3448-463d-b4c4-eeadf330d75d/download/emergency_visit_claims_by_provider_and_recipient_age_group_metadata.xlsx,https://hub.mph.in.gov/dataset/emergency-visit-claims-by-provider-and-recipient-age-group/resource/3d894ee0-3448-463d-b4c4-eeadf330d75d#:~:text=EMERGENCY%20VISIT%20CLAIMS%20BY%20PROVIDER%20AND...
+Emergency Visit,EMERGENCY VISIT CLAIMS BY RECIPIENT ZIP CODE AND AGE GROUP,State of Indiana,Indiana Management Performance Hub,114.2 KiB,Free,2017-10-14,2019-05-06,XLSX,No,1.0,10,organization-Dataset ID- Title-Description- group- Topic- Program- Tags- Department- Modified,,https://hub.mph.in.gov/dataset/dc5c48e7-b1ef-4a73-a751-504aaceda0c2/resource/f78a5a59-fefb-412d-9c6e-5232508046b0/download/emergency_visit_claims_by_recipient_zip_code_and_age_group_metadata.xlsx,https://hub.mph.in.gov/dataset/emergency-visit-claims-by-recipient-zip-code-and-age-group/resource/f78a5a59-fefb-412d-9c6e-5232508046b0#:~:text=EMERGENCY%20VISIT%20CLAIMS%20BY%20RECIPIENT%20ZIP%20CODE...
+Emergency Visit,EMERGENCY VISIT CLAIMS BY DIAGNOSIS CODE AND RECIPIENT AGE GROUP,State of Indiana,Indiana Management Performance Hub,114.1 KiB,Free,2017-10-14,2019-05-06,XLSX,No,1.0,10,organization-Dataset ID- Title-Description- group- Topic- Program- Tags- Department- Modified,,https://hub.mph.in.gov/dataset/904ce0f0-7085-4f22-9dd7-8936570296c2/resource/6f264398-12e6-4d6e-8ae7-4f19d9816a2b/download/emergency_visit_claims_by_diagnosis_code_and_age_group_metadata.xlsx,https://hub.mph.in.gov/dataset/emergency-visit-claims-by-diagnosis-code-for-and-age-group/resource/6f264398-12e6-4d6e-8ae7-4f19d9816a2b#:~:text=EMERGENCY%20VISIT%20CLAIMS%20BY%20DIAGNOSIS%20CODE%20AND...
+Emergency Visit,"EMERGENCY VISIT CLAIMS BY RECIPIENT RACE, GENDER, AND AGE GROUP",State of Indiana,Indiana Management Performance Hub,114.2 KiB,Free,2017-10-14,2019-05-06,XLSX,No,1.0,10,organization-Dataset ID- Title-Description- group- Topic- Program- Tags- Department- Modified,,https://hub.mph.in.gov/dataset/bb433d0e-6487-4462-aa05-00670690888e/resource/c9917721-463c-4121-a06c-8727f78441d2/download/emergency_visit_claims_by_recipient_race_gender_and_age_group_metadata.xlsx,https://hub.mph.in.gov/dataset/emergency-visit-claims-by-recipient-race-gender-and-age-group/resource/c9917721-463c-4121-a06c-8727f78441d2#:~:text=EMERGENCY%20VISIT%20CLAIMS%20BY%20RECIPIENT%20RACE%2C
+Emergency Visit,"EMERGENCY VISIT CLAIMS BY RECIPIENT RACE, GENDER, AND AGE GROUP",State of Indiana,Indiana Management Performance Hub,114.2 KiB,Free,2017-10-14,2019-05-06,XLSX,No,1.0,10,organization-Dataset ID- Title-Description- group- Topic- Program- Tags- Department- Modified,,https://hub.mph.in.gov/dataset/bb433d0e-6487-4462-aa05-00670690888e/resource/c9917721-463c-4121-a06c-8727f78441d2/download/emergency_visit_claims_by_recipient_race_gender_and_age_group_metadata.xlsxx,https://hub.mph.in.gov/dataset/emergency-visit-claims-by-recipient-race-gender-and-age-group/resource/c9917721-463c-4121-a06c-8727f78441d2#:~:text=EMERGENCY%20VISIT%20CLAIMS%20BY%20RECIPIENT%20RACE%2C
+Emergency Visit,"EMERGENCY VISIT CLAIMS BY RECIPIENT RACE, GENDER, AND AGE GROUP",State of Indiana,Indiana Management Performance Hub,114.2 KiB,Free,2017-10-14,2019-05-06,XLSX,No,1.0,10,organization-Dataset ID- Title-Description- group- Topic- Program- Tags- Department- Modified,,https://hub.mph.in.gov/dataset/bb433d0e-6487-4462-aa05-00670690888e/resource/c9917721-463c-4121-a06c-8727f78441d2/download/emergency_visit_claims_by_recipient_race_gender_and_age_group_metadata.xlsx,https://hub.mph.in.gov/dataset/emergency-visit-claims-by-recipient-race-gender-and-age-group/resource/c9917721-463c-4121-a06c-8727f78441d2#:~:text=EMERGENCY%20VISIT%20CLAIMS%20BY%20RECIPIENT%20RACE%2C
+Covid-19,COVID-19 LTC WEEKLY CASE/DEATH TRENDS,IDOH - Redcap,Indiana Department of Health,10.3 KiB,Free,2020-11-20,2022-05-04,XLSX,No,166.0,6,"report_date	timestamp		
+case_type	text		
+new_confirmed_cases	numeric		
+total_confirmed_cases	numeric		
+new_confirmed_deaths	numeric		
+total_confirmed_deaths	numeric",,https://hub.mph.in.gov/dataset/00fabb14-dd1a-4d0a-83be-7f8f6ac5fe6c/resource/f0f780dd-002d-4a87-8f98-b3d3ce86f927/download/ltc_weekly_state.xlsx,"https://hub.mph.in.gov/dataset/covid-19-ltc-weekly-case-death-trends#:~:text=Activity%20Stream-,COVID%2D19%20LTC%20WEEKLY%20CASE/DEATH%20TRENDS,-NOTE%20regarding%20cessation"
+Covid-19,COVID-19 VACCINATIONS BY ZIP,CHIRP,Indiana Department of Health,22.7 KiB,Free,2021-03-23,2021-03-23,CSV,No,775.0,6,"zip_cd	numeric		
+single_dose_administered	text		
+all_doses_administered	text		
+fully_vaccinated	text		
+booster_dose_administered	text		
+eligible_population	numeric",,https://hub.mph.in.gov/dataset/d0cb45af-c9de-40f5-9394-de367c17a7a1/resource/c496b384-f543-417e-912f-995caebf5fc0/download/vaccinations-by-zip-with-population.csv,"https://hub.mph.in.gov/dataset/covid-19-vaccinations-by-zip/resource/c496b384-f543-417e-912f-995caebf5fc0#:~:text=Data%20API-,VACCINATIONS%20BY%20ZIP%20WITH%20POPULATION,-URL%3A%20https"
+Covid-19,COUNTY VACCINATIONS BY DATE,IDOH - CHIRP,Indiana Department of Health,4.5 MiB,Free,2023-03-15,2023-03-15,CSV,No,81000.0,10,"date	timestamp		
+county	text		
+region	text		
+fips	text		
+single_dose_administered	numeric		
+all_doses_administered	numeric		
+fully_vaccinated	numeric		
+booster_dose_administered	numeric		
+second_booster_dose_administered	numeric		
+current_as_of	timestamp",,https://hub.mph.in.gov/dataset/c484a6a3-2f32-4af9-8e02-c98801c3454f/resource/0d19c96d-01dd-40c6-9323-5af5b98b572b/download/county-vaccinations-by-date.csv,"https://hub.mph.in.gov/dataset/covid-19-vaccinations-by-date/resource/0d19c96d-01dd-40c6-9323-5af5b98b572b#:~:text=Data%20API-,COUNTY%20VACCINATIONS%20BY%20DATE,-URL%3A%20https"
+Covid-19,COUNTY VACCINATIONS BY DATE (DATA DICTIONARY),IDOH - CHIRP,Indiana Department of Health,9.6 KiB,Free,2023-03-16,2023-03-16,XLSX,No,10.0,2,"Field Name	text		
+Field Description	text",,https://hub.mph.in.gov/dataset/c484a6a3-2f32-4af9-8e02-c98801c3454f/resource/208df242-afd5-41ff-a4ea-8fb44d46267b/download/county-vaccination-by-date-data-dictionary.xlsx,https://hub.mph.in.gov/dataset/covid-19-vaccinations-by-date/resource/208df242-afd5-41ff-a4ea-8fb44d46267b#:~:text=COUNTY%20VACCINATIONS%20BY%20DATE%20(DATA%20DICTIONARY)
+Covid-19,03/15/2023: HISTORICAL COUNTY VACCINATIONS BY DATE,IDOH - CHIRP,Indiana Department of Health,5.3 MiB,Free,2023-03-16,2023-03-16,CSV,No,76000.0,17,"date	timestamp		
+county	text		
+region	text		
+fips	text		
+single_dose_administered	numeric		
+all_doses_administered	numeric		
+fully_vaccinated	numeric		
+booster_dose_administered	numeric		
+second_booster_dose_administered	numeric		
+new_first_dose_administered	numeric		
+new_second_dose_administered	numeric		
+new_single_dose_administered	numeric		
+new_all_doses_administered	numeric		
+new_fully_vaccinated	numeric		
+new_booster_dose_administered	numeric		
+new_second_booster_dose_administered	numeric		
+current_as_of	timestamp",,https://hub.mph.in.gov/dataset/c484a6a3-2f32-4af9-8e02-c98801c3454f/resource/0f93f21d-d019-4112-b758-de6b378a06ac/download/county-vaccinations-by-date_historical.csv,https://hub.mph.in.gov/dataset/covid-19-vaccinations-by-date/resource/0f93f21d-d019-4112-b758-de6b378a06ac#:~:text=03/15/2023%3A%20HISTORICAL%20COUNTY%20VACCINATIONS%20BY%20DATE
+Covid-19,03/15/2023: HISTORICAL COUNTY VACCINATIONS BY...,IDOH - CHIRP,Indiana Department of Health,9.8 KiB,Free,2023-03-16,2023-03-16,XLSX,No,15.0,2,"Field Name	text		
+Field Description	text",,https://hub.mph.in.gov/dataset/c484a6a3-2f32-4af9-8e02-c98801c3454f/resource/32ded410-2f20-422b-a4f7-cd579f8e91cc/download/county-vaccination-by-date-data-dictionary_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-vaccinations-by-date/resource/32ded410-2f20-422b-a4f7-cd579f8e91cc#:~:text=03/15/2023%3A%20HISTORICAL%20COUNTY%20VACCINATIONS%20BY...
+Covid-19,HISTORICAL COUNTY VACCINATIONS BY DATE,IDOH - CHIRP,Indiana Department of Health,4.3 MiB,Free,2022-08-19,2022-08-19,CSV,No,58000.0,19,"date	timestamp		
+county	text		
+region	text		
+fips	text		
+first_dose_administered	numeric		
+second_dose_administered	numeric		
+single_dose_administered	numeric		
+all_doses_administered	numeric		
+fully_vaccinated	numeric		
+booster_dose_administered	numeric		
+second_booster_dose_administered	numeric		
+new_first_dose_administered	numeric		
+new_second_dose_administered	numeric		
+new_single_dose_administered	numeric		
+new_all_doses_administered	numeric		
+new_fully_vaccinated	numeric		
+new_booster_dose_administered	numeric		
+new_second_booster_dose_administered	numeric		
+current_as_of	timestamp",,https://hub.mph.in.gov/dataset/c484a6a3-2f32-4af9-8e02-c98801c3454f/resource/504f0438-6241-4ce8-99ea-59eddc76a178/download/historical-county-vaccinations-by-date.csv,https://hub.mph.in.gov/dataset/covid-19-vaccinations-by-date/resource/504f0438-6241-4ce8-99ea-59eddc76a178#:~:text=HISTORICAL%20COUNTY%20VACCINATIONS%20BY%20DATE
+Covid-19,COVID-19 VACCINATION DEMOGRAPHICS BY COUNTY AND DISTRICT,IDOH - CHIRP,Indiana Department of Health,Free,155.7 KiB,2021-01-27,2023-04-26,XLSX,No,2000.0,13,"county	text		
+region	numeric		
+fips	numeric		
+age_group	text		
+single_dose_administered	text		
+all_doses_administered	text		
+fully_vaccinated	text		
+booster_dose_administered	text		
+new_single_dose_administered	text		
+new_all_doses_administered	text		
+new_fully_vaccinated	text		
+new_booster_dose_administered	text		
+current_as_of	timestamp",https://hub.mph.in.gov/dataset/145a43b2-28e5-4bf1-ad86-123d07fddb55/resource/82d99020-093f-41ac-95c7-d3c335b8c2ba/download/county-vaccination-demographics.xlsx,"https://hub.mph.in.gov/dataset/covid-19-vaccinations-demographics-by-county-and-district/resource/82d99020-093f-41ac-95c7-d3c335b8c2ba#:~:text=Data%20API-,COVID%2D19%20COUNTY%20VACCINATION%20DEMOGRAPHICS,-URL%3A%20https",
+Covid-19,COVID-19 COUNTY VACCINATION DEMOGRAPHICS,IDOH - CHIRP,Indiana Department of Health,Free,155.7 KiB,2021-01-27,2023-04-26,XLSX,No,2000.0,13,"county	text		
+region	numeric		
+fips	numeric		
+age_group	text		
+single_dose_administered	text		
+all_doses_administered	text		
+fully_vaccinated	text		
+booster_dose_administered	text		
+new_single_dose_administered	text		
+new_all_doses_administered	text		
+new_fully_vaccinated	text		
+new_booster_dose_administered	text		
+current_as_of	timestamp",https://hub.mph.in.gov/dataset/145a43b2-28e5-4bf1-ad86-123d07fddb55/resource/82d99020-093f-41ac-95c7-d3c335b8c2ba/download/county-vaccination-demographics.xlsx,"https://hub.mph.in.gov/dataset/covid-19-vaccinations-demographics-by-county-and-district/resource/82d99020-093f-41ac-95c7-d3c335b8c2ba#:~:text=Data%20API-,COVID%2D19%20COUNTY%20VACCINATION%20DEMOGRAPHICS,-URL%3A%20https",
+,SDOH SURVEY RESPONSES BY RETURNING CITIZENS FROM MEDICAID APPLICATION,"DOC, FSSA",Indiana Family and Social Services Administration,Free,361 bytes,2022-08-19,2022-08-19,CSV,No,3.0,11,-,https://hub.mph.in.gov/dataset/2df4f73e-600f-4884-a527-3ac3973505fb/resource/f09073d9-f3c8-4afb-ad58-738e5168a694/download/sdoh-survey-responses-by-returning-citizens-from-medicaid-application.csv,https://hub.mph.in.gov/dataset/sdoh-survey-responses-by-returning-citizens-from-medicaid-application/resource/f09073d9-f3c8-4afb-ad58-738e5168a694#:~:text=SDOH%20SURVEY%20RESPONSES%20BY%20RETURNING%20CITIZENS...,
+Covid-19,COVID-19 LTC DAILY CASE/DEATH TRENDS,IDOH - Redcap,Management Performance Hub,Free,24.1 KiB,2020-12-15,2022-05-04,XLSX,No,729.0,5,"event_date	timestamp		
+total_confirmed_cases_resident	numeric		
+total_confirmed_deaths_resident	numeric		
+total_confirmed_cases_staff	numeric		
+total_confirmed_deaths_staff	numeric",https://hub.mph.in.gov/dataset/67c549c5-2da6-4ec4-84c3-9fee00995d17/resource/02b18b38-8feb-42b9-8115-f8b2907580c4/download/ltc_daily_state.xlsx,"https://hub.mph.in.gov/dataset/covid-19-ltc-daily-case-death-trends/resource/02b18b38-8feb-42b9-8115-f8b2907580c4#:~:text=Data%20API-,COVID%2D19%20LTC%20DAILY%20CASE/DEATH%20TRENDS,-URL%3A%20https",
+Covid-19,COVID-19 CASE DEMOGRAPHICS DAILY TREND,IDOH - NBS,Indiana State Department of Health,Free,625.9 KiB,2023-03-16,2023-03-16,XLSX,No,3000.0,5,"DATE	timestamp		
+ETHNICITY	text		
+COVID_TEST	numeric		
+COVID_COUNT	numeric		
+COVID_DEATHS	numeric",https://hub.mph.in.gov/dataset/20ba5164-0e66-4663-8d91-0492968b7107/resource/8bab2981-bd91-4be4-9f15-8889b25cd95f/download/covid_report_demographics_trend_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-case-demographics-daily-trend/resource/8bab2981-bd91-4be4-9f15-8889b25cd95f#:~:text=03/15/2023%3A%20HISTORICAL%20COVID%2D19%20CASE...,
+Covid-19,03/15/2023: HISTORICAL COVID-19 CASE...,IDOH - NBS,Indiana State Department of Health,Free,9.1 KiB,2023-03-16,2023-03-16,XLSX,No,8.0,2,"Field Name	text		
+Field Description	text",https://hub.mph.in.gov/dataset/20ba5164-0e66-4663-8d91-0492968b7107/resource/03577ff1-b759-43b2-b609-a1658fc6f4d1/download/covid-19_case_demographics_trend_datadictionary_historical.xlsx,https://hub.mph.in.gov/dataset/covid-19-case-demographics-daily-trend/resource/03577ff1-b759-43b2-b609-a1658fc6f4d1#:~:text=03/15/2023%3A%20HISTORICAL%20COVID%2D19%20CASE...,
+Death Rate,NCHS - Death rates and life expectancy at birth,NCHS/DVS,National Center for Health Statistics,Free,53 KiB,2015-07-09,2022-03-30,CSV,No,1071.0,5,"Average life expectancy, age-adjusted death rate by sex, race and year",https://data.cdc.gov/NCHS/NCHS-Death-rates-and-life-expectancy-at-birth/w9j2-ggv5/explore,"https://data.cdc.gov/NCHS/NCHS-Death-rates-and-life-expectancy-at-birth/w9j2-ggv5#:~:text=Search-,NCHS%20%2D%20Death%20rates%20and%20life%20expectancy%20at%20birth,-NCHS",
+Death Rates And Life Expectancy,NCHS - Death rates and life expectancy at birth,NCHS/DVS,National Center for Health Statistics,Free,-,2017-07-20,2023-04-12,CSV,No,2640.0,6,"Monthly number of live births, deaths, or infant deaths",https://data.cdc.gov/NCHS/VSRR-State-and-National-Provisional-Counts-for-Liv/hmz2-vwda/explore,https://data.cdc.gov/NCHS/VSRR-State-and-National-Provisional-Counts-for-Liv/hmz2-vwda/explore,
+Chronic Conditions Prevalence Estimates,NHANES Select Chronic Conditions Prevalence Estimates,NCHS/DVS,National Center for Health Statistics,Free,-,2015-07-09,2020-09-08,CSV,No,1071.0,5,"Average life expectancy, age-adjusted death rate by sex, race and year",https://data.cdc.gov/NCHS/NCHS-Death-rates-and-life-expectancy-at-birth/w9j2-ggv5/explore,NCHS - Death rates and life expectancy at birth,
+Covid-19,COVID-19 Case Surveillance Public Use Data with Geography,"CDC Data, Analytics and Visualization Task Force",CDC,Free,-,2021-02-03,2023-04-11,online table,No,97.8,19,--,"https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4#:~:text=Sign%20In-,COVID%2D19%20Case%20Surveillance%20Public%20Use%20Data%20with%20Geography,-Case%20Surveillance","Centers for Disease Control and Prevention, COVID-19 Response. COVID-19 Case Surveillance Public Use Data with Geography (version date: April 06, 2023).",
