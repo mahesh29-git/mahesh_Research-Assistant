@@ -1,5 +1,2 @@
-# BHIRC Data Analysis (Indiana University)
- Bio Health Informatics and Research Center (BHIRC) - Indiana University
-git add README.md
-git commit -m "Added README for BHIRC Data Analysis"
-git push origin main
+git clone https://github.com/mahesh29-git/mahesh_Research-Assistant.git
+cd mahesh_Research-Assitant
